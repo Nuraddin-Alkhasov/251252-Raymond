@@ -1,0 +1,66 @@
+﻿<vw:View
+    x:Class="HMI.DialogRegion.PD.Views.Camera"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:vw="http://inosoft.com/visiwin7"
+    Width="1920" Height="1080" Background="{DynamicResource DialogSurroundBrush}" Opacity="0">
+
+
+    <Grid >
+        <Grid x:Name="border"  Width="1530" Height="1070" RenderTransformOrigin="1, 0.5" HorizontalAlignment="Center" VerticalAlignment="Center" Loaded="Camera_Loaded" >
+            <Grid.RenderTransform>
+                <ScaleTransform ScaleX="0.3" ScaleY="0.3" />
+            </Grid.RenderTransform>
+            <vw:Border Background="White"  Opacity="0.7" CornerRadius="5" >
+                <Border.Effect>
+                    <BlurEffect Radius="10"/>
+                </Border.Effect>
+            </vw:Border>
+            <Border   BorderBrush="White" Margin="5" BorderThickness="0" Background="{DynamicResource BackgroundBrush}" CornerRadius="5" >
+                <Grid  Margin="10,0,10,0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="70" />
+                        <RowDefinition Height="10" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="10" />
+                        <RowDefinition Height="10" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="10"/>
+                        <ColumnDefinition Width="210"/>
+                    </Grid.ColumnDefinitions>
+                    <vw:TextBlock x:Name="HeaderText" HorizontalAlignment="Left" VerticalAlignment="Center" Foreground="White" FontSize="18" FontWeight="Bold" LocalizableText="@Camera.Text1" Width="400" />
+                    <vw:Button x:Name="CancelButton" Grid.Column="2" HorizontalAlignment="Right" VerticalAlignment="Top" Style="{DynamicResource B_Close}" Width="80" Height="40" Text="X"  Margin="0,0,0,0" Click="Cancel_Click"/>
+                    <Border Grid.Row="1" VerticalAlignment="Top" Grid.ColumnSpan="3" Background="{DynamicResource FP_Red}"  Height="2" CornerRadius="2" />
+
+                    <Grid Grid.Row="2" >
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="80" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Border x:Name="Video" Grid.RowSpan="2" Grid.ColumnSpan="2" UseLayoutRounding="True" SnapsToDevicePixels="True" Background="Transparent" Margin="5" Width="1280" Height="960"/>
+
+                    </Grid>
+
+                    <Border Grid.Row="3" VerticalAlignment="Bottom" Grid.ColumnSpan="3" Background="{DynamicResource FP_Red}"  Height="2" CornerRadius="2" />
+                    <Border  Grid.Row="2" Grid.Column="1"  Background="{DynamicResource FP_Red}"  Width="2" CornerRadius="2" />
+
+                    <StackPanel  Grid.Column="2" Grid.Row="2" VerticalAlignment="Center">
+                        <vw:Switch x:Name="camera1" Height="150" Width="200" Style="{DynamicResource TB_Main}" LocalizableTextOn="@Camera.Text2" LocalizableTextOff="@Camera.Text2" VerticalAlignment="Top" Margin="0,0,0,0" Checked="Camera1_Click"/>
+                        <vw:Switch x:Name="camera2" Height="150" Width="200" Style="{DynamicResource TB_Main}" LocalizableTextOn="@Camera.Text3" LocalizableTextOff="@Camera.Text3" Margin="0,10,0,10" Checked="Camera2_Click"/>
+                        <Border Grid.Row="3" VerticalAlignment="Bottom" Grid.ColumnSpan="3" Background="{DynamicResource FP_Red}"  Height="2" CornerRadius="2" Margin="0,50,0,50"/>
+
+                        <vw:Button Height="150" Width="200" LocalizableText="@Status.Text92" Click="Clean_Click" Style="{DynamicResource B_Blue_ns}" />
+                        <vw:Button Height="150" Width="200" LocalizableText="@Status.Text20" Click="Discharge_Click"  Style="{DynamicResource B_Red_ns}" Margin="0,10,0,0" />
+                    </StackPanel>
+                </Grid>
+            </Border>
+        </Grid>
+    </Grid>
+
+</vw:View>

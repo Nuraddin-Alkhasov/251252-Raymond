@@ -1,0 +1,26 @@
+﻿<UserControl x:Class="HMI.Resources.UserControls.MO.M2_MV_CD"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vw="http://inosoft.com/visiwin7" Opacity="0" Loaded="UserControl_Loaded">
+    <Grid x:Name="A" >
+        <vw:PictureBox SymbolResourceKey="MV_CD" Width="200" Height="327"   Margin="3" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <vw:PictureBox.Effect>
+                <DropShadowEffect Color="LightBlue" BlurRadius="20"  Direction="90"  Opacity="0.5"/>
+            </vw:PictureBox.Effect>
+        </vw:PictureBox>
+       
+
+        <Grid x:Name="DT"  Width="100" Height="60" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="150,-70,0,0" >
+            <vw:Button  IsEnabled="False" Opacity="1" Style="{DynamicResource B_Gray_ns}" Padding="0,5,0,0" FontSize="13" FontWeight="SemiBold" LocalizableText="@MachineOverview.Text22" VerticalContentAlignment="Top" Tag="{vw:VariableBinding VariableName=CPU4.PLC.Blocks.04 Tray handling.06 HZ.01.03 Heating.DB HZ 1 Heating HMI.Actual.State}"/>
+            <vw:NumericVarOut x:Name="dtTemp" Padding="0,0,3,0" Style="{DynamicResource NVO_Main}" Height="30" LocalizableUnitText="@Units.C" Value="500" TextAlignment="Center" VerticalAlignment="Bottom" FormatString="{}0" Margin="2,0,2,2"/>
+        </Grid>
+        <vw:NavigationButton x:Name="Supply" Height="60" Width="100" Style="{DynamicResource B_Gray}" CornerRadius="4" Tag="{vw:VariableBinding VariableName=CPU3.PLC.Blocks.03 Basket coating.01 CD.07 Supply.DB CD Supply HMI.Actual.State}" LocalizableText="@MachineOverview.Text92" FontSize="13" Margin="-70,-70,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" ViewName="M2_Coating_SF" RegionName="DialogRegion1"/>
+
+        <vw:NavigationButton x:Name="Exhaust" Height="60" Width="100" Style="{DynamicResource B_Gray}" CornerRadius="4"  Tag="{vw:VariableBinding VariableName=CPU3.PLC.Blocks.03 Basket coating.01 CD.08 Exhaust.DB CD Exhaust HMI.Actual.State}" LocalizableText="@MachineOverview.Text21" FontSize="13" Margin="40,-70,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" ViewName="M2_Coating_EF" RegionName="DialogRegion1"/>
+
+        <vw:Button x:Name="Visco" Height="80" Width="100" Style="{DynamicResource B_Gray}" Tag="3" Opacity="1" IsEnabled="False" LocalizableText="@MachineOverview.Text45" FontSize="13"   Margin="73,20,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+
+        <vw:Button Click="Button_Click_1" Margin="-5" Style="{DynamicResource B_Station}" />
+    </Grid>
+
+</UserControl>

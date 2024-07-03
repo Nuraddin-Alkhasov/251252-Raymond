@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VisiWin.Settings version="1.0">
+  <Section name="DashboardConfigurations">
+    <Section name="dashboard">
+      <Section name="SWE">
+        <Section name="00">
+          <Entry name="Row" type="System.Int32" value="0" />
+          <Entry name="Column" type="System.Int32" value="0" />
+          <Entry name="ViewName" type="System.String" value="DB_Widget_WDC" />
+          <Entry name="IsPinned" type="System.Boolean" value="False" />
+        </Section>
+        <Section name="01">
+          <Entry name="Row" type="System.Int32" value="0" />
+          <Entry name="Column" type="System.Int32" value="1" />
+          <Entry name="ViewName" type="System.String" value="DB_Widget_PZT" />
+          <Entry name="IsPinned" type="System.Boolean" value="False" />
+        </Section>
+      </Section>
+      <Section name="Administrator">
+        <Section name="00">
+          <Entry name="Row" type="System.Int32" value="0" />
+          <Entry name="Column" type="System.Int32" value="0" />
+          <Entry name="ViewName" type="System.String" value="DB_Widget_PSC" />
+          <Entry name="IsPinned" type="System.Boolean" value="False" />
+        </Section>
+        <Section name="01">
+          <Entry name="Row" type="System.Int32" value="0" />
+          <Entry name="Column" type="System.Int32" value="1" />
+          <Entry name="ViewName" type="System.String" value="DB_Widget_WDC" />
+          <Entry name="IsPinned" type="System.Boolean" value="False" />
+        </Section>
+      </Section>
+    </Section>
+  </Section>
+</VisiWin.Settings>

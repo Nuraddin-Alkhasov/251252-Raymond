@@ -1,0 +1,45 @@
+﻿<vw:View 
+        x:Class="HMI.MainRegion.Recipes.Views.Recipe_Paint_DT"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vw="http://inosoft.com/visiwin7" VerticalAlignment="Center" HorizontalAlignment="Center" Width="800" Opacity="0">
+    <Grid>
+        <vw:GroupBox Style="{DynamicResource GB_Group}" Tag="55" Loaded="View_Loaded" LocalizableHeaderText="@RecipeSystem.Text97">
+            <Grid Margin="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <vw:GroupBox Grid.Column="0" Grid.Row="0" Style="{DynamicResource GB_Group}" Tag="50" Margin="0" LocalizableHeaderText="@RecipeSystem.Text90" >
+                    <StackPanel Margin="5,10,5,5">
+                        <vw:Switch x:Name="to" Style="{DynamicResource S_Status}" FontWeight="Bold" Height="45" Margin="0,0,0,0" Foreground="White" VariableName="CPU1.PLC.Blocks.03 Basket coating.02 DT.00 Main.DB DT PD.Station.DT.Cool.isOn" AuthorizationRight="RecipePP" ValueChanged="to_ValueChanged"/>
+                        <vw:NumericVarIn x:Name="ul" Style="{DynamicResource NVI_Main}" FontWeight="Bold" Height="45" Margin="0,5,0,0" LocalizableUnitText="@Units.C" LocalizableLabelText="@RecipeSystem.Text93" RawLimitMax="40" RawLimitMin="10" FormatString="{}0.0" VariableName="CPU1.PLC.Blocks.03 Basket coating.02 DT.00 Main.DB DT PD.Station.DT.Cool.Set.UL" AuthorizationRight="RecipePP" />
+                        <vw:NumericVarIn x:Name="s" Style="{DynamicResource NVI_Main}" FontWeight="Bold" Height="45" Margin="0,5,0,0"  LocalizableUnitText="@Units.C" LocalizableLabelText="@RecipeSystem.Text94" RawLimitMax="30" RawLimitMin="10" FormatString="{}0.0" VariableName="CPU1.PLC.Blocks.03 Basket coating.02 DT.00 Main.DB DT PD.Station.DT.Cool.Set.Value" AuthorizationRight="RecipePP" ValueChanged="s_ValueChanged"/>
+                        <vw:NumericVarIn x:Name="ll" Style="{DynamicResource NVI_Main}" FontWeight="Bold" Height="45" Margin="0,5,0,0" LocalizableUnitText="@Units.C" LocalizableLabelText="@RecipeSystem.Text92" RawLimitMax="30" RawLimitMin="0" FormatString="{}0.0" VariableName="CPU1.PLC.Blocks.03 Basket coating.02 DT.00 Main.DB DT PD.Station.DT.Cool.Set.LL" AuthorizationRight="RecipePP" />
+                    </StackPanel>
+                </vw:GroupBox>
+                <vw:GroupBox Grid.Column="1" Grid.Row="0" Style="{DynamicResource GB_Group}" Tag="50" Margin="0" LocalizableHeaderText="@RecipeSystem.Text98" >
+                    <StackPanel Margin="5,10,5,5">
+                        <vw:Switch x:Name="vc" Style="{DynamicResource S_Status}" FontWeight="Bold" Height="45" Foreground="White" VariableName="CPU1.PLC.Blocks.03 Basket coating.02 DT.00 Main.DB DT PD.Station.DT.Viscosity.isOn" AuthorizationRight="RecipePP" ValueChanged="vc_ValueChanged"/>
+
+                        <vw:NumericVarIn x:Name="vh" Style="{DynamicResource NVI_Main}" FontWeight="Bold" Height="45" Margin="0,5,0,0"  LocalizableUnitText="@Units.h" RawLimitMax="10" RawLimitMin="1" FormatString="{}0" VariableName="CPU1.PLC.Blocks.03 Basket coating.02 DT.00 Main.DB DT PD.Station.DT.Viscosity.Time.H" AuthorizationRight="RecipePP" />
+                        <vw:NumericVarIn x:Name="vm" Style="{DynamicResource NVI_Main}" FontWeight="Bold" Height="45" Margin="0,5,0,0"  LocalizableUnitText="@Units.m" RawLimitMax="59" RawLimitMin="0" FormatString="{}0" VariableName="CPU1.PLC.Blocks.03 Basket coating.02 DT.00 Main.DB DT PD.Station.DT.Viscosity.Time.M" AuthorizationRight="RecipePP"/>
+                    </StackPanel>
+                </vw:GroupBox>
+                <vw:GroupBox Grid.Column="2" Grid.Row="0" Style="{DynamicResource GB_Group}" Tag="50" Margin="0" LocalizableHeaderText="@RecipeSystem.Text99" >
+                    <StackPanel Margin="5,10,5,5">
+                        <vw:Switch x:Name="po" Style="{DynamicResource S_Status}" FontWeight="Bold" Height="45" Foreground="White" VariableName="CPU1.PLC.Blocks.03 Basket coating.02 DT.00 Main.DB DT PD.Station.DT.Pump.isOn" AuthorizationRight="RecipePP" ValueChanged="po_ValueChanged"/>
+
+                        <vw:NumericVarIn x:Name="pot" Style="{DynamicResource NVI_Main}" FontWeight="Bold" Height="45" Margin="0,5,0,0" LocalizableUnitText="@Units.m" LocalizableLabelText="@RecipeSystem.Text100" RawLimitMax="250" RawLimitMin="1" FormatString="{}0" VariableName="CPU1.PLC.Blocks.03 Basket coating.02 DT.00 Main.DB DT PD.Station.DT.Pump.On.M" AuthorizationRight="RecipePP" />
+                        <vw:NumericVarIn x:Name="poft" Style="{DynamicResource NVI_Main}" FontWeight="Bold" Height="45" Margin="0,5,0,0"  LocalizableUnitText="@Units.m" LocalizableLabelText="@RecipeSystem.Text101" RawLimitMax="250" RawLimitMin="0" FormatString="{}0" VariableName="CPU1.PLC.Blocks.03 Basket coating.02 DT.00 Main.DB DT PD.Station.DT.Pump.Off.M" AuthorizationRight="RecipePP"/>
+                    </StackPanel>
+                </vw:GroupBox>
+
+            </Grid>
+        </vw:GroupBox>
+        <vw:Switch x:Name="vc_Copy" Style="{DynamicResource S_Status}" FontWeight="Bold" Height="50" Foreground="White" VariableName="CPU1.PLC.Blocks.03 Basket coating.02 DT.00 Main.DB DT PD.Tank.Functions.Level monitoring" AuthorizationRight="RecipePP" Margin="548,6,7,284"/>
+        <vw:TextBlock LocalizableText="@RecipeSystem.Text105" TextWrapping="Wrap"  FontFamily="Segoe UI" TextAlignment="Right" FontSize="16" FontWeight="Bold" Text="aaaa" Foreground="White" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="243,21,0,0" Width="300"/>
+    </Grid>
+
+</vw:View>

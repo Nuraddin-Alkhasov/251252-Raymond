@@ -1,0 +1,1 @@
+DELETE FROM [VisiWin#250548-MCS#Logs].[dbo].[Logbook#Archive] WHERE [Date] < dateadd(YEAR, -3, cast(getdate() as date))

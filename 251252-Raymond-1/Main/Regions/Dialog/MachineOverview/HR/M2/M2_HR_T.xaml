@@ -1,0 +1,102 @@
+﻿<vw:View x:Class="HMI.DialogRegion.MO.Views.M2_HR_T "
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:vw="http://inosoft.com/visiwin7"
+    Width="1920" Height="1080" Background="{DynamicResource DialogSurroundBrush}" Opacity="0" Loaded="View_Loaded">
+
+    <Grid >
+        <Grid x:Name="border"  RenderTransformOrigin="1, 0.5" HorizontalAlignment="Center" VerticalAlignment="Center" >
+            <Grid.RenderTransform>
+                <ScaleTransform ScaleX="0.3" ScaleY="0.3" />
+            </Grid.RenderTransform>
+            <vw:Border Background="White"  Opacity="0.7" CornerRadius="5" >
+                <Border.Effect>
+                    <BlurEffect Radius="10"/>
+                </Border.Effect>
+            </vw:Border>
+            <Border   BorderBrush="White" Margin="5" BorderThickness="0" Background="{DynamicResource BackgroundBrush}" CornerRadius="5" >
+                <Grid  Margin="10,0,10,0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="70" />
+                        <RowDefinition Height="12" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="12" />
+                        <RowDefinition Height="70" />
+                    </Grid.RowDefinitions>
+                    <vw:TextBlock x:Name="HeaderText" HorizontalAlignment="Left" VerticalAlignment="Center" Foreground="White" FontSize="18" FontWeight="Bold" LocalizableText="@MachineOverview.Text58" Width="400" />
+                    <vw:Button x:Name="CancelButton" HorizontalAlignment="Right" VerticalAlignment="Top" Style="{DynamicResource B_Close}" Width="80" Height="40" Text="X"  Margin="0,0,0,0" Click="CancelButton_Click"/>
+                    <Border Grid.Row="1" VerticalAlignment="Top" Background="{DynamicResource FP_Red}"  Height="2" CornerRadius="2" />
+
+
+                    <StackPanel Grid.Row="2" Margin="10,0,10,0" Orientation="Horizontal" IsEnabled="False">
+                        <vw:GroupBox  Style="{DynamicResource GB_Group}" Margin="0,0,0,0" LocalizableHeaderText="@MachineOverview.Text67"  Width="250">
+                            <StackPanel Margin="5,15,5,10">
+                                <vw:NumericVarIn x:Name="ul1" Style="{DynamicResource NVI_Main}" Height="45" LocalizableUnitText="@Units.C" LocalizableLabelText="@MachineOverview.Text43" RawLimitMin="60" RawLimitMax="150"  VariableName="CPU4.PLC.Blocks.04 Tray handling.02 PZ.00 Main.DB PZ HMI.Parameter.Temperature.UL" AuthorizationRight="HRTemperature" FormatString="{}0"/>
+                                <vw:NumericVarIn x:Name="s1" Style="{DynamicResource NVI_Main}" Margin="0,5,0,0"  Height="45" LocalizableLabelText="@MachineOverview.Text44" LocalizableUnitText="@Units.C"  RawLimitMin="0" RawLimitMax="90"  VariableName="CPU4.PLC.Blocks.04 Tray handling.02 PZ.00 Main.DB PZ HMI.Parameter.Temperature.Set" AuthorizationRight="HRTemperature" FormatString="{}0" ValueChanged="s1_ValueChanged" />
+                                <vw:NumericVarIn x:Name="ll1" Style="{DynamicResource NVI_Main}" Margin="0,5,0,0" Height="45" LocalizableUnitText="@Units.C" LocalizableLabelText="@MachineOverview.Text42" RawLimitMin="0" RawLimitMax="90"  VariableName="CPU4.PLC.Blocks.04 Tray handling.02 PZ.00 Main.DB PZ HMI.Parameter.Temperature.LL" AuthorizationRight="HRTemperature" FormatString="{}0"/>
+                                <vw:NumericVarIn Style="{DynamicResource NVI_Main}" Margin="0,5,0,0" Height="45" LocalizableUnitText="@Units.rpm" LocalizableLabelText="@MachineOverview.Text107" RawLimitMin="2305" RawLimitMax="3305"  FormatString="{}0" AuthorizationRight="HRRPM" VariableName="CPU4.PLC.Blocks.04 Tray handling.02 PZ.01 Circulation.DB PZ Circulation HMI.Parameter.Speeds.2"/>
+                                <StackPanel  Margin="0,5,0,0" Orientation="Horizontal">
+                                    <vw:NumericVarIn Style="{DynamicResource NVI_Main}" Margin="0,0,3,0" Width="115" Height="45" LocalizableUnitText="@Units.m" RawLimitMin="2" RawLimitMax="9"  FormatString="{}0" AuthorizationRight="HRMS" VariableName="CPU4.PLC.Blocks.04 Tray handling.02 PZ.00 Main.DB PZ HMI.Parameter.Clock.M"/>
+                                    <vw:NumericVarIn Style="{DynamicResource NVI_Main}" Margin="3,0,0,0" Width="115" Height="45" LocalizableUnitText="@Units.s" RawLimitMin="0" RawLimitMax="59"  FormatString="{}0" AuthorizationRight="HRMS" VariableName="CPU4.PLC.Blocks.04 Tray handling.02 PZ.00 Main.DB PZ HMI.Parameter.Clock.S"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </vw:GroupBox>
+                        <vw:GroupBox  Style="{DynamicResource GB_Group}" Margin="10,0,0,0" LocalizableHeaderText="@MachineOverview.Text68"  Width="250">
+                            <StackPanel Margin="5,15,5,10">
+                                <vw:NumericVarIn x:Name="ul2" Style="{DynamicResource NVI_Main}" Height="45" LocalizableUnitText="@Units.C" LocalizableLabelText="@MachineOverview.Text43" RawLimitMin="180" RawLimitMax="380"  VariableName="CPU4.PLC.Blocks.04 Tray handling.05 WZ.00 Main.DB WZ HMI.Parameter.Temperature.UL" AuthorizationRight="HRTemperature" FormatString="{}0"/>
+                                <vw:NumericVarIn x:Name="s2" Style="{DynamicResource NVI_Main}" Margin="0,5,0,0"  Height="45" LocalizableLabelText="@MachineOverview.Text44" LocalizableUnitText="@Units.C"  RawLimitMin="0" RawLimitMax="320"  VariableName="CPU4.PLC.Blocks.04 Tray handling.05 WZ.00 Main.DB WZ HMI.Parameter.Temperature.Set" AuthorizationRight="HRTemperature" FormatString="{}0" ValueChanged="s2_ValueChanged" />
+                                <vw:NumericVarIn x:Name="ll2" Style="{DynamicResource NVI_Main}" Margin="0,5,0,0" Height="45" LocalizableUnitText="@Units.C" LocalizableLabelText="@MachineOverview.Text42" RawLimitMin="120" RawLimitMax="320"  VariableName="CPU4.PLC.Blocks.04 Tray handling.05 WZ.00 Main.DB WZ HMI.Parameter.Temperature.LL" AuthorizationRight="HRTemperature" FormatString="{}0"/>
+                                <vw:NumericVarIn Style="{DynamicResource NVI_Main}" Margin="0,5,0,0" Height="45" LocalizableUnitText="@Units.rpm" LocalizableLabelText="@MachineOverview.Text107" RawLimitMin="1043" RawLimitMax="1543" FormatString="{}0" AuthorizationRight="HRRPM" VariableName="CPU4.PLC.Blocks.04 Tray handling.05 WZ.01 Circulation.DB WZ Circulation HMI.Parameter.Speeds.3"/>
+                                <StackPanel  Margin="0,5,0,0" Orientation="Horizontal">
+                                    <vw:NumericVarIn Style="{DynamicResource NVI_Main}" Margin="0,0,3,0" Width="115" Height="45" LocalizableUnitText="@Units.m" RawLimitMin="2" RawLimitMax="9"  FormatString="{}0" AuthorizationRight="HRMS" VariableName="CPU4.PLC.Blocks.04 Tray handling.05 WZ.00 Main.DB WZ HMI.Parameter.Clock.M"/>
+                                    <vw:NumericVarIn Style="{DynamicResource NVI_Main}" Margin="3,0,0,0" Width="115" Height="45" LocalizableUnitText="@Units.s" RawLimitMin="0" RawLimitMax="59"  FormatString="{}0" AuthorizationRight="HRMS" VariableName="CPU4.PLC.Blocks.04 Tray handling.05 WZ.00 Main.DB WZ HMI.Parameter.Clock.S"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </vw:GroupBox>
+                        <vw:GroupBox  Style="{DynamicResource GB_Group}" Margin="10,0,0,0" LocalizableHeaderText="@MachineOverview.Text100"  Width="250">
+                            <StackPanel Margin="5,15,5,10">
+                                <vw:NumericVarIn x:Name="ul3" Style="{DynamicResource NVI_Main}" Height="45" LocalizableUnitText="@Units.C" LocalizableLabelText="@MachineOverview.Text43" RawLimitMin="180" RawLimitMax="380"  VariableName="CPU4.PLC.Blocks.04 Tray handling.06 HZ.00 Main.DB HZ HMI.Parameter.Hold.Set.UL" AuthorizationRight="HRTemperature" FormatString="{}0"/>
+                                <vw:NumericVarIn x:Name="s3" Style="{DynamicResource NVI_Main}" Margin="0,5,0,0"  Height="45" LocalizableLabelText="@MachineOverview.Text44" LocalizableUnitText="@Units.C"  RawLimitMin="0" RawLimitMax="320"  VariableName="CPU4.PLC.Blocks.04 Tray handling.06 HZ.00 Main.DB HZ HMI.Parameter.Hold.Set.Value" AuthorizationRight="HRTemperature" FormatString="{}0" ValueChanged="s3_ValueChanged" />
+                                <vw:NumericVarIn x:Name="ll3" Style="{DynamicResource NVI_Main}" Margin="0,5,0,0" Height="45" LocalizableUnitText="@Units.C" LocalizableLabelText="@MachineOverview.Text42" RawLimitMin="120" RawLimitMax="320"  VariableName="CPU4.PLC.Blocks.04 Tray handling.06 HZ.00 Main.DB HZ HMI.Parameter.Hold.Set.LL" AuthorizationRight="HRTemperature" FormatString="{}0"/>
+                                <vw:NumericVarIn Style="{DynamicResource NVI_Main}" Margin="0,5,0,0" Height="45" LocalizableUnitText="@Units.rpm" LocalizableLabelText="@MachineOverview.Text107" RawLimitMin="2025" RawLimitMax="2925" FormatString="{}0" AuthorizationRight="HRRPM" VariableName="CPU4.PLC.Blocks.04 Tray handling.06 HZ.00 Main.DB HZ HMI.Parameter.Speeds.2"/>
+                                <StackPanel  Margin="0,5,0,0" Orientation="Horizontal">
+                                    <vw:NumericVarIn Style="{DynamicResource NVI_Main}" Margin="0,0,3,0" Width="115" Height="45" LocalizableUnitText="@Units.m" RawLimitMin="2" RawLimitMax="9"  FormatString="{}0" AuthorizationRight="HRMS" VariableName="CPU4.PLC.Blocks.04 Tray handling.06 HZ.00 Main.DB HZ HMI.Parameter.Clock.M"/>
+                                    <vw:NumericVarIn Style="{DynamicResource NVI_Main}" Margin="3,0,0,0" Width="115" Height="45" LocalizableUnitText="@Units.s" RawLimitMin="0" RawLimitMax="59"  FormatString="{}0" AuthorizationRight="HRMS" VariableName="CPU4.PLC.Blocks.04 Tray handling.06 HZ.00 Main.DB HZ HMI.Parameter.Clock.S"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </vw:GroupBox>
+                        <vw:GroupBox  Style="{DynamicResource GB_Group}" Margin="10,0,0,0" LocalizableHeaderText="@MachineOverview.Text94"  Width="250">
+                            <StackPanel Margin="5,15,5,10">
+                                <vw:NumericVarIn x:Name="ul4" Style="{DynamicResource NVI_Main}" Height="45" LocalizableUnitText="@Units.C" LocalizableLabelText="@MachineOverview.Text43" RawLimitMin="10" RawLimitMax="60"  VariableName="CPU4.PLC.Blocks.04 Tray handling.07 CZ.00 Main.DB CZ HMI.Parameter.Cool.Set.UL" AuthorizationRight="HRTemperature" FormatString="{}0"/>
+                                <vw:NumericVarIn x:Name="s4" Style="{DynamicResource NVI_Main}" Margin="0,5,0,0"  Height="45" LocalizableLabelText="@MachineOverview.Text44" LocalizableUnitText="@Units.C"  RawLimitMin="0" RawLimitMax="30"  VariableName="CPU4.PLC.Blocks.04 Tray handling.07 CZ.00 Main.DB CZ HMI.Parameter.Cool.Set.Value" AuthorizationRight="HRTemperature" FormatString="{}0" ValueChanged="s4_ValueChanged" />
+                                <vw:NumericVarIn x:Name="ll4" Style="{DynamicResource NVI_Main}" Margin="0,5,0,0" Height="45" LocalizableUnitText="@Units.C" LocalizableLabelText="@MachineOverview.Text42" RawLimitMin="0" RawLimitMax="30"  VariableName="CPU4.PLC.Blocks.04 Tray handling.07 CZ.00 Main.DB CZ HMI.Parameter.Cool.Set.LL" AuthorizationRight="HRTemperature" FormatString="{}0"/>
+                                <vw:NumericVarIn Style="{DynamicResource NVI_Main}" Margin="0,5,0,0" Height="45" LocalizableUnitText="@Units.rpm" LocalizableLabelText="@MachineOverview.Text107" RawLimitMin="2000" RawLimitMax="2950"  FormatString="{}0" AuthorizationRight="HRRPM" VariableName="CPU4.PLC.Blocks.04 Tray handling.07 CZ.00 Main.DB CZ HMI.Parameter.Speeds.2"/>
+                                <StackPanel  Margin="0,5,0,0" Orientation="Horizontal">
+                                    <vw:NumericVarIn Style="{DynamicResource NVI_Main}" Margin="0,0,3,0" Width="115" Height="45" LocalizableUnitText="@Units.m" RawLimitMin="2" RawLimitMax="9"  FormatString="{}0" AuthorizationRight="HRMS" VariableName="CPU4.PLC.Blocks.04 Tray handling.07 CZ.00 Main.DB CZ HMI.Parameter.Clock.M"/>
+                                    <vw:NumericVarIn Style="{DynamicResource NVI_Main}" Margin="3,0,0,0" Width="115" Height="45" LocalizableUnitText="@Units.s" RawLimitMin="0" RawLimitMax="59"  FormatString="{}0" AuthorizationRight="HRMS" VariableName="CPU4.PLC.Blocks.04 Tray handling.07 CZ.00 Main.DB CZ HMI.Parameter.Clock.S"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </vw:GroupBox>
+                    </StackPanel>
+
+                    <Border Grid.Row="3" VerticalAlignment="Bottom" Background="{DynamicResource FP_Red}"  Height="2" CornerRadius="2" IsEnabled="False"/>
+
+                    <Grid  Grid.Row="4">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <vw:Key x:Name="V_On" LocalizableText="@Buttons.Text19" Style="{DynamicResource B_Gray}" Height="50" Width="200" KeyMode="KeyMode" Click="Button_Click_1" Tag="{vw:VariableBinding VariableName=CPU4.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Production.to.Heat treatment.State}" AuthorizationRight="HR"/>
+                        <vw:Key x:Name="V_Off"  LocalizableText="@Buttons.Text17" Grid.Column="1"  Style="{DynamicResource B_Red}" Height="50" Width="200" KeyMode="KeyMode" Click="Button_Click_2" AuthorizationRight="HR"/>
+                        <vw:Key x:Name="solvent" LocalizableText="@RecipeSystem.Text102" Grid.Column="2" Style="{DynamicResource B_Gray}" Height="50" Width="200" KeyMode="KeyMode" Click="Button_Click_3" Tag="{vw:VariableBinding VariableName=CPU4.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Production.to.Heat treatment.Option.State.Solvent}" AuthorizationRight="HR" />
+
+                        <vw:NavigationButton Height="50" Width="200" HorizontalAlignment="Center" Grid.Column="3" Style="{DynamicResource B_Gray}" IsDefault="{vw:VariableBinding VariableName=CPU4.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Timer.On}" LocalizableText="@MachineOverview.Text64" RegionName="DialogRegion2" ViewName="M2_Sheduler"/>
+
+                    </Grid>
+                </Grid>
+            </Border>
+        </Grid>
+    </Grid>
+</vw:View>

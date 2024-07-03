@@ -1,0 +1,116 @@
+﻿<vw:View x:Class="HMI.MainRegion.MO.Views.MO_MainView_M2"
+	     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+         xmlns:vw="http://inosoft.com/visiwin7" 
+         xmlns:UC="clr-namespace:HMI.Resources.UserControls.MO"
+         Width="1832" Height="1000" Background="{StaticResource FP_Black_Gradient}">
+
+    <Grid>
+
+
+        <Grid  x:Name="LayoutRoot" Margin="80,30,0,0" Loaded="LayoutRoot_Loaded" >
+
+        </Grid>
+
+        <UC:MVBasket  Margin="697,341,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" 
+                        IsBasket="CPU3.PLC.Blocks.02 Basket handling.04 BT.00 Main.DB BT PD.Baskets.Available"
+                        IsMaterial="CPU3.PLC.Blocks.02 Basket handling.04 BT.00 Main.DB BT PD.Charge.Available"
+                        SetLayer="CPU3.PLC.Blocks.02 Basket handling.04 BT.00 Main.DB BT PD.Charge.Layer[1].Set"
+                        ActualLayer="CPU3.PLC.Blocks.02 Basket handling.04 BT.00 Main.DB BT PD.Charge.Layer[1].Actual"
+                        CPU="CPU3"  AS="Set"/>
+        <UC:MVBasket Margin="697,382,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" 
+                        IsBasket="CPU3.PLC.Blocks.02 Basket handling.04 BT.00 Main.DB BT PD.Baskets.Available"
+                        IsMaterial="CPU3.PLC.Blocks.02 Basket handling.04 BT.00 Main.DB BT PD.Charge.Available"
+                        SetLayer="CPU3.PLC.Blocks.02 Basket handling.04 BT.00 Main.DB BT PD.Charge.Layer[1].Set"
+                        ActualLayer="CPU3.PLC.Blocks.02 Basket handling.04 BT.00 Main.DB BT PD.Charge.Layer[1].Actual"
+                        IsDischarge="CPU3.PLC.Blocks.02 Basket handling.04 BT.00 Main.DB BT PD.Baskets.Functions.Discharge"
+                     IsWatch="CPU3.PLC.Blocks.02 Basket handling.04 BT.00 Main.DB BT PD.Baskets.Functions.Watch"
+                     IsCheck="CPU3.PLC.Blocks.02 Basket handling.04 BT.00 Main.DB BT PD.Baskets.Functions.Check"
+                        CPU="CPU3" Station="4" AS="Actual"/>
+
+        <vw:Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="150" Height="105" Style="{DynamicResource B_Material}" Margin="650,366,0,0"  Click="Button_Click_1"/>
+        <vw:Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Height="125" Style="{DynamicResource B_Material}" Margin="692,336,0,0"  Click="Button_Click"/>
+
+
+        <UC:M_WorkMode_R HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,10,0,0" IsEnabled="False"
+                       Header="@MachineOverview.Text8"
+                       Automatic="CPU3.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Basket feeding.from.Operating mode.Automatic"
+                       Manual="CPU3.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Basket feeding.from.Operating mode.Manual"
+                       SetUp="CPU3.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Basket feeding.from.Operating mode.Setup"
+                       Start="CPU3.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Basket feeding.from.Automatic.Start"
+                       Stop="CPU3.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Basket feeding.from.Automatic.Stop"
+                       StartStatus="CPU3.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Basket feeding.to.Automatic.State"
+                       WorkingModeStatus="CPU3.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Basket feeding.to.Operating mode.State"/>
+
+
+        <UC:M_WorkMode_L HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,10,10,0"  IsEnabled="False"
+                       Header="@MachineOverview.Text17"
+                       Automatic="CPU3.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Basket handling.from.Operating mode.Automatic"
+                       Manual="CPU3.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Basket handling.from.Operating mode.Manual"
+                       SetUp="CPU3.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Basket handling.from.Operating mode.Setup"
+                       Start="CPU3.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Basket handling.from.Automatic.Start"
+                       Stop="CPU3.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Basket handling.from.Automatic.Stop"
+                       StartStatus="CPU3.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Basket handling.to.Automatic.State"
+                       WorkingModeStatus="CPU3.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Basket handling.to.Operating mode.State"/>
+
+        <UC:M_WorkMode_R HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="20,0,0,10"  IsEnabled="False"
+                       Header="@MachineOverview.Text18"
+                       Automatic="CPU3.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Basket coating.from.Operating mode.Automatic"
+                       Manual="CPU3.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Basket coating.from.Operating mode.Manual"
+                       SetUp="CPU3.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Basket coating.from.Operating mode.Setup"
+                       Start="CPU3.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Basket coating.from.Automatic.Start"
+                       Stop="CPU3.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Basket coating.from.Automatic.Stop"
+                       StartStatus="CPU3.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Basket coating.to.Automatic.State"
+                       WorkingModeStatus="CPU3.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Basket coating.to.Operating mode.State"/>
+
+        <UC:M_WorkMode_L HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,10,10"  IsEnabled="False"
+                       Header="@MachineOverview.Text19"
+                       Automatic="CPU4.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Tray handling.from.Operating mode.Automatic"
+                       Manual="CPU4.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Tray handling.from.Operating mode.Manual"
+                       SetUp="CPU4.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Tray handling.from.Operating mode.Setup"
+                       Start="CPU4.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Tray handling.from.Automatic.Start"
+                       Stop="CPU4.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Tray handling.from.Automatic.Stop"
+                       StartStatus="CPU4.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Tray handling.to.Automatic.State"
+                       WorkingModeStatus="CPU4.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Tray handling.to.Operating mode.State"/>
+
+
+
+        <vw:GroupBox Style="{DynamicResource GB_Group2}" HorizontalAlignment="Left" VerticalAlignment="Bottom" LocalizableHeaderText="@MachineOverview.Text77" Margin="400,0,0,20" >
+            <StackPanel Orientation="Horizontal" Margin="5,10,5,5">
+                <vw:NumericVarOut  Style="{DynamicResource NVO_Main}" Width="85" Height="45" LocalizableUnitText="@Units.m" VariableName="CPU3.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Clock.to.M"/>
+                <vw:NumericVarOut  Style="{DynamicResource NVO_Main}" Width="85" Height="45" Margin="5,0,0,0" LocalizableUnitText="@Units.s" VariableName="CPU3.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Clock.to.S" />
+            </StackPanel>
+        </vw:GroupBox>
+
+        <Border x:Name="Mod" VerticalAlignment="Top" BorderThickness="5,0,5,5" CornerRadius="0,0,75,75" Background="{DynamicResource FP_Blue_Gradient}"  BorderBrush="{DynamicResource FP_Red_Gradient}" HorizontalAlignment="Center" Height="100" Width="1200" >
+            <Border.Effect>
+                <DropShadowEffect Color="White" Direction="270" Opacity="0.7"/>
+            </Border.Effect>
+            <Grid Margin="0,5,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <vw:TextBlock LocalizableText="@MachineOverview.Text122" Margin="0,0,0,0" VerticalAlignment="Center" Foreground="White" FontWeight="Bold" TextAlignment="Center" FontSize="40"/>
+
+                <StackPanel Grid.Column="1" Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <vw:NavigationButton Height="70" Width="200" FontWeight="SemiBold" FontSize="20" Style="{DynamicResource B_Mode}" Tag="{vw:VariableBinding VariableName=CPU4.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Production.to.Mode.State}" LocalizableText="{vw:VariableBinding VariableName=CPU4.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Production.to.Mode.State, Converter={StaticResource ValueToStateTextConverter}, States={StaticResource Mode}, StateMode=Value}" ViewName="M2_HR_M" RegionName="DialogRegion1"/>
+                    <vw:NavigationButton Height="70" Width="200" FontWeight="SemiBold" FontSize="20" Style="{DynamicResource B_Gray}" Tag="{vw:VariableBinding VariableName=CPU4.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Production.to.Heat treatment.State}" LocalizableText="@MachineOverview.Text58" Margin="40,0,0,0" ViewName="M2_HR_T" RegionName="DialogRegion1"/>
+                </StackPanel>
+                <StackPanel Grid.Column="2" Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+
+                    <vw:Button IsEnabled="False" Opacity="1" Height="70" Width="70" Style="{DynamicResource B_Gray}" SymbolResourceKey="Forced" IsDefault="{vw:VariableBinding VariableName=CPU4.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Production.to.Mode.Option.State.Forced}"/>
+                    <vw:Button IsEnabled="False" Opacity="1" Height="70" Width="70" Style="{DynamicResource B_Gray}" Margin="20,0,20,0" SymbolResourceKey="Sync" IsDefault="{vw:VariableBinding VariableName=CPU4.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Production.to.Mode.Option.State.Sync}" />
+                    <vw:Button IsEnabled="False" Opacity="1" Height="70" Width="70" Style="{DynamicResource B_Gray}" SymbolResourceKey="Linked" IsDefault="{vw:VariableBinding VariableName=CPU3.PLC.Blocks.00 Main.02 HMI.00 Main.DB HMI Main.Production.to.Mode.Option.State.Linked}" />
+
+                </StackPanel>
+
+            </Grid>
+
+        </Border>
+
+
+    </Grid>
+
+</vw:View>

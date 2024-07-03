@@ -1,0 +1,39 @@
+﻿<vw:View 
+    x:Class="HMI.DialogRegion.MO.Views.M1_Status_Basket"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+	xmlns:vw="http://inosoft.com/visiwin7" >
+    <Grid>
+        <vw:GroupBox Style="{DynamicResource GB_Group2}" LocalizableHeaderText="@Status.Text4" >
+            <StackPanel Orientation="Horizontal" >
+                <StackPanel Margin="0,0,5,0" >
+                    <vw:GroupBox  Style="{DynamicResource GB_Group2}" LocalizableHeaderText="@Status.Text18" >
+                        <StackPanel Orientation="Horizontal" Margin="0,5" Width="315">
+                            <vw:NumericVarOut Height="45" Style="{DynamicResource NVO_Main}" Width="305" LocalizableUnitText="@Units.kg" LocalizableLabelText="@Status.Text11" Margin="5,5,0,0" FormatString="{}0.0" VariableName="CPU1.PLC.Blocks.00 Main.02 HMI.01 PC.DB PC.State.to.Data.Charge.Weight.Left" />
+                        </StackPanel>
+                    </vw:GroupBox>
+                    <vw:GroupBox  Style="{DynamicResource GB_Group2}" LocalizableHeaderText="@Status.Text17" >
+                        <StackPanel Orientation="Horizontal" Margin="0,5"  Width="315">
+                            <vw:TextVarOut Height="45" Style="{DynamicResource TVO_Main}" Width="150" LocalizableLabelText="@Status.Text14" Margin="5,5,0,0" VariableName="CPU1.PLC.Blocks.00 Main.02 HMI.01 PC.DB PC.State.to.Data.Baskets.Coatings.Set" />
+                            <vw:TextVarOut Grid.Column="1" Height="45" Style="{DynamicResource TVO_Main}" Width="150"   LocalizableLabelText="@Status.Text15" Margin="5,5,0,0" VariableName="CPU1.PLC.Blocks.00 Main.02 HMI.01 PC.DB PC.State.to.Data.Baskets.Coatings.Actual" />
+                        </StackPanel>
+                    </vw:GroupBox>
+                </StackPanel>
+                <StackPanel>
+                    <vw:GroupBox  Style="{DynamicResource GB_Group2}" LocalizableHeaderText="@Status.Text19" >
+                        <StackPanel Margin="0,5" Width="315">
+                            <vw:NumericVarOut Height="45" Style="{DynamicResource NVO_Main}" Margin="0,5,0,0" Width="305" LocalizableUnitText="@Units.kg" LocalizableLabelText="@Status.Text11" FormatString="{}0.0" VariableName="CPU1.PLC.Blocks.00 Main.02 HMI.01 PC.DB PC.State.to.Data.Charge.Weight.Right" />
+                        </StackPanel>
+                    </vw:GroupBox>
+                    <vw:ComboBox x:Name="paints" Height="45" Style="{DynamicResource CB_Main}" Width="305" LocalizableLabelText="@Status.Text16" Margin="0,8,0,0" StateList="{Binding PaintTypes}" SelectedItem="{Binding SelectedPaint}" VariableName="CPU1.PLC.Blocks.00 Main.02 HMI.01 PC.DB PC.State.to.Data.Baskets.Paint" AuthorizationRight="ProcessDataMB"/>
+                    <vw:ComboBox Height="45" Style="{DynamicResource CB_Main}" Width="305" LocalizableLabelText="@Status.Text21" Margin="0,8,0,0" StateList="{DynamicResource P_YesNo}" VariableName="CPU1.PLC.Blocks.00 Main.02 HMI.01 PC.DB PC.State.to.Data.Baskets.Available" AuthorizationRight="ProcessDataMB"/>
+
+                </StackPanel>
+            </StackPanel>
+        </vw:GroupBox>
+        <vw:ToggleButton Margin="0,3,3,0" Width="120" Height="46" VerticalAlignment="Top" HorizontalAlignment="Right"  Style="{DynamicResource TB_Main}" LocalizableTextOff="@Status.Text20" LocalizableTextOn="@Status.Text20" CornerRadius="4" VariableName="CPU1.PLC.Blocks.00 Main.02 HMI.01 PC.DB PC.State.to.Data.Baskets.Functions.Discharge" AuthorizationRight="ProcessDataMB"/>
+        <vw:ToggleButton Margin="0,3,133,0" Width="120" Height="46" VerticalAlignment="Top" HorizontalAlignment="Right"  Style="{DynamicResource TB_Main}" LocalizableTextOff="@Status.Text79" LocalizableTextOn="@Status.Text79" CornerRadius="4" VariableName="CPU1.PLC.Blocks.00 Main.02 HMI.01 PC.DB PC.State.to.Data.Baskets.Functions.Watch" AuthorizationRight="ProcessDataMB"/>
+        <vw:ToggleButton Margin="0,3,263,0" Width="120" Height="46" VerticalAlignment="Top" HorizontalAlignment="Right"  Style="{DynamicResource TB_Main}" LocalizableTextOff="@Status.Text91" LocalizableTextOn="@Status.Text91" CornerRadius="4" VariableName="CPU1.PLC.Blocks.00 Main.02 HMI.01 PC.DB PC.State.to.Data.Baskets.Functions.Check" AuthorizationRight="ProcessDataMB"/>
+
+    </Grid>
+</vw:View>

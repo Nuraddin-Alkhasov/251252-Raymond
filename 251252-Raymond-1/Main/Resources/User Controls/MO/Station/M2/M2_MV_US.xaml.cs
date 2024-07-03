@@ -1,0 +1,232 @@
+﻿using HMI.CO.General;
+using System;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Media;
+using System.Windows.Media.Animation;
+using VisiWin.ApplicationFramework;
+using VisiWin.DataAccess;
+
+namespace HMI.Resources.UserControls.MO
+{
+    public partial class M2_MV_US : UserControl
+    {
+        public M2_MV_US()
+        {
+            InitializeComponent();
+            isBox1 = "CPU4.PLC.Blocks.04 Tray handling.09 US.01.00 Main.DB US 1 PD.Customer.Box.Available";
+            isMaterialBox1 = "CPU4.PLC.Blocks.04 Tray handling.09 US.01.00 Main.DB US 1 PD.Customer.Charge.Available";
+            isBox2 = "CPU4.PLC.Blocks.04 Tray handling.09 US.02.00 Main.DB US 2 PD.Customer.Box.Available";
+            isMaterialBox2 = "CPU4.PLC.Blocks.04 Tray handling.09 US.02.00 Main.DB US 2 PD.Customer.Charge.Available";
+            isBox2Full = "CPU4.PLC.Blocks.04 Tray handling.09 US.02.00 Main.DB US 2 HMI.Actual.Box.Loaded";
+            isBox1Full = "CPU4.PLC.Blocks.04 Tray handling.09 US.01.00 Main.DB US 1 HMI.Actual.Box.Loaded";
+        }
+        IVariableService VS = ApplicationService.GetService<IVariableService>();
+
+        IVariable IVTBox1Full;
+        public string isBox1Full
+        {
+            get { return ""; }
+            set
+            {
+                if (VS.IsExistingVariable(value))
+                {
+                    IVTBox1Full = VS.GetVariable(value);
+                    IVTBox1Full.Change += IVTBox1Full_Change;
+                }
+            }
+        }
+        private void IVTBox1Full_Change(object sender, VariableEventArgs e)
+        {
+            if (e.Quality.Data == DataQuality.Good)
+            {
+                if ((bool)e.Value)
+                {
+                    nr1.FontSize = 20;
+                    nr1.Foreground = Brushes.Red; 
+                    new ObjectAnimator().BlinkUIElement(nr1);
+                }
+                else
+                {
+                    nr1.FontSize = 16;
+                    nr1.Foreground = Brushes.White;
+                    new ObjectAnimator().ShowUIElement(nr1);
+                }
+            }
+        }
+
+        IVariable IVTBox2Full;
+        public string isBox2Full
+        {
+            get { return ""; }
+            set
+            {
+                if (VS.IsExistingVariable(value))
+                {
+                    IVTBox2Full = VS.GetVariable(value);
+                    IVTBox2Full.Change += IVTBox2Full_Change;
+                }
+            }
+        }
+        private void IVTBox2Full_Change(object sender, VariableEventArgs e)
+        {
+            if (e.Quality.Data == DataQuality.Good)
+            {
+                if ((bool)e.Value)
+                {
+                    nr2.FontSize = 20;
+                    nr2.Foreground = Brushes.Red;
+                    new ObjectAnimator().BlinkUIElement(nr2);
+                }
+                else
+                {
+                    nr2.FontSize = 16;
+                    nr2.Foreground = Brushes.White;
+                    new ObjectAnimator().ShowUIElement(nr2);
+                }
+            }
+        }
+
+        IVariable IVTBox1;
+        public string isBox1
+        {
+             get { return ""; } 
+            set
+            {
+                if (VS.IsExistingVariable(value))
+                {
+                    IVTBox1 = VS.GetVariable(value);
+                    IVTBox1.Change += IVTBox1_Change;
+                }
+            }
+        }
+        private void IVTBox1_Change(object sender, VariableEventArgs e)
+        {
+            if (e.Quality.Data == DataQuality.Good)
+            {
+                if ((bool)e.Value)
+                {
+                    new ObjectAnimator().ShowMOElement(box1);
+                }
+                else
+                {
+                    new ObjectAnimator().HideMOElement(box1);
+                }
+            }
+        }
+
+        IVariable IVTisMaterialBox1;
+        public string isMaterialBox1
+        {
+            get { return ""; }
+            set
+            {
+                if (VS.IsExistingVariable(value))
+                {
+                    IVTisMaterialBox1 = VS.GetVariable(value);
+                    IVTisMaterialBox1.Change += IVTisMaterialBox1_Change;
+                }
+            }
+        }
+        private void IVTisMaterialBox1_Change(object sender, VariableEventArgs e)
+        {
+            if (e.Quality.Data == DataQuality.Good)
+            {
+                if ((bool)e.Value)
+                {
+                    new ObjectAnimator().ShowMOElement(isMat1);
+                }
+                else
+                {
+                    new ObjectAnimator().HideMOElement(isMat1);
+                }
+            }
+        }
+
+        IVariable IVTBox2;
+        public string isBox2
+        {
+            get { return ""; }
+            set
+            {
+                if (VS.IsExistingVariable(value))
+                {
+                    IVTBox2 = VS.GetVariable(value);
+                    IVTBox2.Change += IVTBox2_Change;
+                }
+            }
+        }
+        private void IVTBox2_Change(object sender, VariableEventArgs e)
+        {
+            if (e.Quality.Data == DataQuality.Good)
+            {
+                if ((bool)e.Value)
+                {
+                    new ObjectAnimator().ShowMOElement(box2);
+                }
+                else
+                {
+                    new ObjectAnimator().HideMOElement(box2);
+                }
+            }
+
+
+        }
+
+        IVariable IVTisMaterialBox2;
+        public string isMaterialBox2
+        {
+            get { return ""; }
+            set
+            {
+                if (VS.IsExistingVariable(value))
+                {
+                    IVTisMaterialBox2 = VS.GetVariable(value);
+                    IVTisMaterialBox2.Change += IVTisMaterialBox2_Change;
+                }
+            }
+        }
+        private void IVTisMaterialBox2_Change(object sender, VariableEventArgs e)
+        {
+            if (e.Quality.Data == DataQuality.Good)
+            {
+                if ((bool)e.Value)
+                {
+                    new ObjectAnimator().ShowMOElement(isMat2);
+                }
+                else
+                {
+                    new ObjectAnimator().HideMOElement(isMat2);
+                }
+            }
+        }
+        private void UserControl_Loaded(object sender, RoutedEventArgs e)
+        {
+            new ObjectAnimator().ShowMOElement(this);
+        }
+    
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            new SP
+            {
+                Station = 22,
+                Header = "@Status.Text74",
+                Type = "Box",
+                CPU = "CPU4"
+            }.Open();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            new SP
+            {
+                Station = 24,
+                Header = "@Status.Text78",
+                Type = "Box",
+                CPU = "CPU4"
+            }.Open();
+        }
+    }
+}

@@ -1,0 +1,24 @@
+﻿<vw:View x:Class="HMI.MainRegion.MO.Views.MO_MainView"
+	     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+         xmlns:vw="http://inosoft.com/visiwin7" 
+         xmlns:UC="clr-namespace:HMI.Resources.UserControls.MO"
+         Width="1832" Height="1000" Background="{StaticResource FP_Black_Gradient}" IsVisibleChanged="View_IsVisibleChanged">
+
+    <Grid>
+        <vw:PanoramaNavigation  x:Name="pn_mv"  Orientation="Vertical" IsManipulationEnabled="False" Grid.Row="1"  SelectedPanoramaRegionChanged="pn_mv_SelectedPanoramaRegionChanged">
+            <vw:PanoramaNavigation.PanoramaRegions>
+                <vw:PanoramaRegion x:Name="M1"/>
+                <vw:PanoramaRegion x:Name="M2"/>
+            </vw:PanoramaNavigation.PanoramaRegions>
+        </vw:PanoramaNavigation>
+
+        <ListBox Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Right" Opacity="0.7"
+                 ItemContainerStyle="{DynamicResource LBI_PanoramaNavigation_V}"  Style="{DynamicResource LB_PanoramaNavigation_V}"
+                 SelectedIndex="{Binding SelectedPanoramaRegionIndex, ElementName=pn_mv, Mode=TwoWay, NotifyOnTargetUpdated=True, NotifyOnSourceUpdated=True, UpdateSourceTrigger=PropertyChanged}">
+            <vw:ListBoxItem />
+            <vw:ListBoxItem Margin="0,10,0,0" />
+        </ListBox>
+    </Grid>
+    
+</vw:View>

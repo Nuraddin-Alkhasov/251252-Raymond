@@ -1,0 +1,24 @@
+﻿<vw:View 
+        x:Class="HMI.MainRegion.Recipes.Views.Recipe_Paint_HZ"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vw="http://inosoft.com/visiwin7" VerticalAlignment="Center" HorizontalAlignment="Center" Width="500" Opacity="0">
+
+    <vw:GroupBox Style="{DynamicResource GB_Group}" Tag="50" Loaded="View_Loaded" LocalizableHeaderText="@RecipeSystem.Text96">
+            <Grid Margin="0">
+                
+          
+            <vw:GroupBox Grid.Column="1" Grid.Row="0" Style="{DynamicResource GB_Group}" Tag="50" Margin="0" LocalizableHeaderText="@RecipeSystem.Text90" >
+                <StackPanel Margin="5,10,5,5">
+                    <vw:Switch x:Name="to" Style="{DynamicResource S_Status}" FontWeight="Bold" Height="45" Foreground="White" VariableName="CPU1.PLC.Blocks.03 Basket coating.02 DT.00 Main.DB DT PD.Station.HZ.Hold.isOn" AuthorizationRight="RecipePP" ValueChanged="to_ValueChanged"/>
+
+                    <vw:NumericVarIn x:Name="ul" Style="{DynamicResource NVI_Main}" FontWeight="Bold" Height="45" Margin="0,5,0,0" LocalizableUnitText="@Units.C" LocalizableLabelText="@RecipeSystem.Text93" RawLimitMax="380" RawLimitMin="180" FormatString="{}0.0" VariableName="CPU1.PLC.Blocks.03 Basket coating.02 DT.00 Main.DB DT PD.Station.HZ.Hold.Set.UL" AuthorizationRight="RecipePP" />
+                    <vw:NumericVarIn x:Name="s" Style="{DynamicResource NVI_Main}" FontWeight="Bold" Height="45" Margin="0,5,0,0"  LocalizableUnitText="@Units.C" LocalizableLabelText="@RecipeSystem.Text94" RawLimitMax="320" RawLimitMin="0" FormatString="{}0.0" VariableName="CPU1.PLC.Blocks.03 Basket coating.02 DT.00 Main.DB DT PD.Station.HZ.Hold.Set.Value" AuthorizationRight="RecipePP" ValueChanged="s_ValueChanged"/>
+                    <vw:NumericVarIn x:Name="ll" Style="{DynamicResource NVI_Main}" FontWeight="Bold" Height="45" Margin="0,5,0,0" LocalizableUnitText="@Units.C" LocalizableLabelText="@RecipeSystem.Text92" RawLimitMax="320" RawLimitMin="120" FormatString="{}0.0" VariableName="CPU1.PLC.Blocks.03 Basket coating.02 DT.00 Main.DB DT PD.Station.HZ.Hold.Set.LL" AuthorizationRight="RecipePP" />
+                </StackPanel>
+                </vw:GroupBox>
+         
+            </Grid>
+        </vw:GroupBox>
+
+</vw:View>

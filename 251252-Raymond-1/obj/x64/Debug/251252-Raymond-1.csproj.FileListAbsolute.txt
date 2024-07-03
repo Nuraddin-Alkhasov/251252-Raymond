@@ -1,0 +1,599 @@
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\Main\Reports\Protocol\Order\Order.rdlc
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\Main\Reports\Protocol\Orders\Orders.rdlc
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\Main\Reports\Protocol\Charge\Charge.rdlc
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\251252-Raymond-1.exe.config
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\251252-Raymond-1.exe
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\251252-Raymond-1.pdb
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\gio-sharp.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\glib-sharp.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\gstreamer-sharp.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\LiveCharts.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\LiveCharts.Wpf.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\Microsoft.ReportViewer.Common.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\Microsoft.ReportViewer.Design.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\Microsoft.SqlServer.Types.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\System.Data.SqlClient.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\System.Windows.Interactivity.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\VisiWin7.Styles.WPF.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\VisiWin7.System.WPF.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\VisiWin7.View.WPF.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\WpfAnimatedGif.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\EnvDTE.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\stdole.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\Microsoft.MSXML.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\LiveCharts.pdb
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\LiveCharts.xml
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\LiveCharts.Wpf.pdb
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\LiveCharts.Wpf.xml
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\System.Data.SqlClient.xml
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\VisiWin7.View.WPF.xml
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\WpfAnimatedGif.pdb
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\WpfAnimatedGif.xml
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\bin\x64\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Interop.EKSEthLib.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Interop.OposScanner_CCO.dll
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\251252-Raymond-1.csproj.ResolveComReference.cache
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Logging\Views\Logging_Filter.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\Coating\MO_Coating_SF.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\Coating\MO_Coating_EF.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\Coating\MO_Coating_VC.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\Coating\MO_Coating_DT.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\HZ\MO_HZ2_EF.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\HR\MO_HR_T.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\HZ\MO_HZ1_EF.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\PZWZ\MO_WZ_EF.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\PZWZ\MO_PZ_EF.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\Sheduler\MO_Sheduler.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\Status\CPU 2\MO_Status_2.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\Status\CPU 2\MO_Status_Box2.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\Status\CPU 2\MO_Status_Tray.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\Status\CPU 1\MO_Status_Box1.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\Status\CPU 1\MO_Status_Basket.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\Status\CPU 1\MO_Status_1.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Basket Feeding\MOH_BF_BS.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Basket Feeding\MOH_BF_DC.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Basket Feeding\MOH_BF_HC.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Basket Feeding\MOH_BF_LD.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_HZ1_D.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_TO.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_MC.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Basket Handling\MOH_BH_BT.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Basket Handling\MOH_BH_CI.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Basket Handling\MOH_BH_ST1.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Basket Handling\MOH_BH_BM.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Basket Coating\MOH_BC_DT.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Basket Coating\MOH_BC_CD.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_CZ4.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_CZ3.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_CZ2.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_CZ1.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_HZ1_A.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_TM.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_PO.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_US2.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_US1.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_WZ.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_PZ.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\PD\Views\BarcodeScanner.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\PD\Views\EKS.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Protocol\Views\Protocol_Trend.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Protocol\Views\Protocol_MR.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Protocol\Views\Protocol_Data.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Protocol\Views\Protocol_Filter.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Recipes\Views\Paint_Browser.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Recipes\Views\Coating_Browser.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Recipes\Views\Article_Browser.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Recipes\Views\MR_Browser.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Statistic\DB_Widget_PSC.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Statistic\DB_Widget_TYW.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Statistic\DB_Widget_WDC.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Statistic\DB_Widget_WDO.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\MachineOverview\Views\Stations\Forplanet\Steps\MO_CD_Dip.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\MachineOverview\Views\Stations\Forplanet\Steps\MO_CD_Spin.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\MachineOverview\Views\Trend\Trend.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Maintenance\Views\Basket Handling\MOH_BH.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Maintenance\Views\Basket Coating\MOH_Coating.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Maintenance\Views\Basket Feeding\MOH_BF.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Maintenance\Views\Tray Handling\MOH_US.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Maintenance\Views\Tray Handling\MOH_HZ.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Maintenance\Views\Tray Handling\MOH_CZ.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Maintenance\Views\Tray Handling\MOH_TH.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Views\Article\Stations\Recipe_Article_BS.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Views\Article\Stations\Recipe_Article_PO.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Views\Article\Stations\Recipe_Article_BT.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Views\Article\Stations\Recipe_Article_LD.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Recipes\Views\MR_Binding.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Views\Paint\Recipes_Paint.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Views\Paint\Stations\Recipe_Paint_HZ.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Views\Paint\Stations\Recipe_Paint_WZ.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Views\Paint\Stations\Recipe_Paint_PZ.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Views\Paint\Stations\Recipe_Paint_Baskets.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Views\Paint\Stations\Recipe_Paint_DT.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\Brushes\Brushes.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\Brushes\Color\Colors.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\Brushes\LinearGradientBrush\LinearGradientBrushes.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\Brushes\RadialGradientBrush\RadialGradientBrushes.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\Brushes\SolidColorBrush\SolidColorBrushes.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\Buttons.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_AppBar.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Dashboard_Add2.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Dashboard_Delete.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Dashboard_Edit.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Filter.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Function.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Gray2.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Green.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Gray_HM.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Gray_ns2.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Peripheral.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Blue.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Blue_ns.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Close.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Dashboard_Add.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Gray.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Gray_ns.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Keyboard.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Material.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Fan.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Red2.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Red.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Power.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Yellow_ns.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Red_ns.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Start_UC.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Station.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_Stop_UC.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Button\B_WM_HM_UC.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\ComboBox\CB_Main.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\ComboBox\ComboBoxes.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\ControlStyles.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\DashboardWidgetHost\DashboardWidgetHosts.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\DashboardWidgetHost\DWH_DashBoard.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\DataGridCell\DataGridCells.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\DataGridCell\DGC_Standart.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\DataGridColumnHeadersPresenter\DataGridCoumnHeaders.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\DataGridColumnHeadersPresenter\DGCHP_Standart.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\DataGridCoumnHeader\DataGridCoumnHeaders.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\DataGridCoumnHeader\DGCH_Standart.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\DataGridRow\DataGridRows.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\DataGridRow\DGR_IE.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\DataGridRow\DGR_Standart.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\DataGrid\DataGrids.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\DataGrid\DG_StandartC.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\DataGrid\DG_Standart.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\DateTimeVarIn\DateTimeVarIns.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\DateTimeVarIn\DTVI_Main.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\DateTimeVarOut\DateTimeVarOuts.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\DateTimeVarOut\DTVO_Main.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Gauge\Gauges.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Gauge\RealisticGaugeStyle_1.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Gauge\RealisticGaugeStyle_2.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Gauge\RealisticGaugeStyle_3.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\GroupBox\GB_Group2.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\GroupBox\GB_Group.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\GroupBox\GroupBoxes.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\HorizontalScroolBar\HSB_Main.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\ListBoxItem\LBI_DashBoard.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\ListBoxItem\LBI_Diagnose.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\ListBoxItem\LBI_PanoramaNavigation_H.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\ListBoxItem\LBI_PanoramaNavigation_V.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\ListBoxItem\ListBoxItems.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\ListBox\LB_Dashboard.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\ListBox\LB_PanoramaNavigation_H.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\ListBox\LB_PanoramaNavigation_V.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\HorizontalScroolBar\HorizontalScroolBars.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\ListBox\ListBoxes.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\NavigationRadioButton\NavigationRadioButtons.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\NavigationRadioButton\NRB_AppBar.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\NumericTextBox\NumericTextBoxes.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\NumericTextBox\NTB_Keyboard.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\NumericVarIn\NumericVarIns.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\NumericVarIn\NVI_Keyboard.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\NumericVarIn\NVI_Main.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\NumericVarIn\NVI_Time.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\NumericVarOut\NumericVarOuts.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\NumericVarOut\NVO_Main.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\PasswordVarIn\PasswordVarIns.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\PasswordVarIn\PVI_Main.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\ProgressBar\PB_Loading.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\ProgressBar\ProgressBars.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\RadioButton\RadioButtons.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\RadioButton\RB_Group.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\RadioButton\RB_Switcher.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\RepeatButton\RB_Keyboard.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\RepeatButton\RepeatButtons.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\ScrollViewer\ScrollViewers.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\ScrollViewer\SV_Standart.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Switch\Switches.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Switch\S_Status.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\TabItem\TabItems.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\TabItem\TI_Filter.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\TextBlock\TB_Trend.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\TextBlock\TB_Center.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\TextBlock\TB_Right.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\TextBlock\TextBlocks.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\TextVarIn\TextVarIns.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\TextVarIn\TVI_Keyboard.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\TextVarIn\TVI_Main.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\TextVarIn\TVI_RecipeBrowser.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\TextVarOut\TextVarOuts.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\TextVarOut\TVO_Main.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Thumb\Thumbs.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\Thumb\T_Standart.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\ToggleButton\TB_MainR.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\ToggleButton\TB_Main.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\ToggleButton\TB_Dashboard.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\ToggleButton\TB_Reports.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\ToggleButton\ToggleButtons.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\TouchKeyboard\AlphaTouchKeyboard.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\TouchKeyboard\NumericTouchKeyboardEN.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\TouchKeyboard\NumericTouchKeyboard.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\TouchKeyboard\TouchKeyboards.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\UpDownNumericVarIn\UDNVI_TimePad.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\ControlStyles\UpDownNumericVarIn\UpDownNumericVarIns.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\DataTemplates\DataTemplates.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\DataTemplates\StateCollection\StateCollections.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\DataTemplates\Symbol\Symbols.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\DataTemplates\Symbol\S_Dashboard.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\DataTemplates\Symbol\S_Articles.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\DataTemplates\Symbol\S_Header.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\DataTemplates\Symbol\S_AppBar.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\DataTemplates\Symbol\S_General.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\DataTemplates\Symbol\S_MachineOverview.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\DataTemplates\Symbol\S_MessageBox.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\DataTemplates\Symbol\S_Recipe.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\DataTemplates\TextStateCollection\TextStateCollections.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\LocalizedResources\TouchKeyboardLayoutResources.de-DE.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\LocalizedResources\TouchKeyboardLayoutResources.en-US.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\System\TouchKeyboardResources.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\Dashboard\DBTemperature.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Material\Baskets\CDBasket.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Material\Baskets\PZWZBasket.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Material\Baskets\STBasket.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Material\Baskets\LDBasket.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Material\Baskets\MVBasket.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Material\MVMaterial.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Paint\PaintType.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Station\MV_CD.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Station\MV_CZ.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Station\MV_HZ.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Station\MV_ST.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Tracking_L.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\OperatingMode\M_WorkMode_L.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\OperatingMode\M_WorkMode_R.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\OperatingMode\WorkModeOption.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\Recipe\Article\ArticleRecipe.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\Recipe\Article\ArticleGeneral.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\Recipe\Coating\CoatingStep4.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\Recipe\Coating\CoatingStep3.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\Recipe\Coating\CoatingStep2.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\Recipe\Coating\CoatingStep1.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\Recipe\MR\MR_Add.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\Recipe\MR\MR_Article.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\Recipe\MR\MR_Layer.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Tracking_R.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\Recipe\Paint\PaintGeneral.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\Recipe\Paint\PaintRecipe.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\SplashWindow\SplashWindow.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\AppBar\Views\AppBar.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\Views\EmptyView.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Header\Views\Header.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Dashboard.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Dashboard\Views\WidgetSelector.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\General\DB_Widget_Calendar.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\General\DB_Widget_Clock.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\General\DB_Widget_FP_Logo.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Statistic\DB_Widget_TYC.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Statistic\DB_Widget_PSW.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\WidgetEmptyView.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Alarms\Views\Alarms_Filter.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Alarms\Views\Alarms_Current.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Alarms\Views\Alarms_Archive.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Alarms\Views\Alarms_PN.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Logging\Views\Logging.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\DataPicker\MO_DataPicker.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Maintenance\Views\Maintenance_PN.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Maintenance\Views\Maintenance_OH.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Maintenance\Views\Maintenance_Current.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Protocol\Views\Protocol_Charges.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Protocol\Views\Protocol_Layers.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Protocol\Views\Protocol_Orders.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Protocol\Views\Protocol_PN.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Recipes_PN.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Recipes\Views\Recipe_Selector.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Views\Article\Recipes_Article.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Views\Coating\Recipes_Coating.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\UM\Views\UM_Groups.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\UM\Views\UM_AddChangeGroup.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\UM\Views\UM_Users.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\UM\Views\UM_PN.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\UM\Views\UM_LogOnOff.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\UM\Views\UM_AddChangeUser.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\UM\Views\UM_ChangePassword.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\MessageBox\Views\MessageBoxView.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Touchpad\TouchPads\Views\AlphaTouchpadView.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Touchpad\TouchPads\Views\DateTimeTouchpadView.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Touchpad\TouchPads\Views\NumericTouchpadView.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Touchpad\TouchPads\Views\PasswordTouchpadView.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Windows\MainWindow.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\App.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Logging\Views\Logging_Filter.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\Coating\MO_Coating_SF.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\Coating\MO_Coating_EF.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\Coating\MO_Coating_VC.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\Coating\MO_Coating_DT.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\HZ\MO_HZ2_EF.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\HR\MO_HR_T.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\HZ\MO_HZ1_EF.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\PZWZ\MO_WZ_EF.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\PZWZ\MO_PZ_EF.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\Sheduler\MO_Sheduler.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\Status\CPU 2\MO_Status_2.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\Status\CPU 2\MO_Status_Box2.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\Status\CPU 2\MO_Status_Tray.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\Status\CPU 1\MO_Status_Box1.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\Status\CPU 1\MO_Status_Basket.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\Status\CPU 1\MO_Status_1.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Basket Feeding\MOH_BF_BS.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Basket Feeding\MOH_BF_DC.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Basket Feeding\MOH_BF_HC.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Basket Feeding\MOH_BF_LD.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_HZ1_D.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_TO.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_MC.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Basket Handling\MOH_BH_BT.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Basket Handling\MOH_BH_CI.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Basket Handling\MOH_BH_ST1.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Basket Handling\MOH_BH_BM.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Basket Coating\MOH_BC_DT.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Basket Coating\MOH_BC_CD.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_CZ4.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_CZ3.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_CZ2.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_CZ1.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_HZ1_A.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_TM.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_PO.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_US2.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_US1.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_WZ.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Maintenance\Tray Handling\MOH_TH_PZ.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\PD\Views\Camera.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\PD\Views\BarcodeScanner.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\PD\Views\EKS.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Protocol\Views\Protocol_Trend.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Protocol\Views\Protocol_MR.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Protocol\Views\Protocol_Data.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Protocol\Views\Protocol_Filter.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Recipes\Views\Paint_Browser.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Recipes\Views\Coating_Browser.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Recipes\Views\Article_Browser.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Recipes\Views\MR_Browser.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Statistic\DB_Widget_PSC.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Statistic\DB_Widget_TYW.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Statistic\DB_Widget_WDC.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Statistic\DB_Widget_WDO.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Temperature\DB_Widget_CZT4.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Temperature\DB_Widget_CZT3.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Temperature\DB_Widget_CZT2.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Temperature\DB_Widget_HZ2.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Temperature\DB_Widget_HZ1.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\MachineOverview\Views\MO_MainView_M2.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\MachineOverview\Views\MO_MainView_M1.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\MachineOverview\Views\Stations\Forplanet\MO_CD.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\MachineOverview\Views\Stations\Forplanet\Steps\MO_CD_Dip.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\MachineOverview\Views\Stations\Forplanet\Steps\MO_CD_Spin.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\MachineOverview\Views\Stations\MO_CZ.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\MachineOverview\Views\Stations\MO_PZWZ.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\MachineOverview\Views\Stations\MO_HZ.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\MachineOverview\Views\Stations\MO_ST.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\MachineOverview\Views\Stations\MO_LD.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\MachineOverview\Views\Trend\Trend.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Maintenance\Views\Basket Handling\MOH_BH.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Maintenance\Views\Basket Coating\MOH_Coating.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Maintenance\Views\Basket Feeding\MOH_BF.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Maintenance\Views\Tray Handling\MOH_US.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Maintenance\Views\Tray Handling\MOH_HZ.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Maintenance\Views\Tray Handling\MOH_CZ.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Maintenance\Views\Tray Handling\MOH_TH.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Views\Article\Stations\Recipe_Article_BS.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Views\Article\Stations\Recipe_Article_PO.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Views\Article\Stations\Recipe_Article_BT.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Views\Article\Stations\Recipe_Article_LD.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Recipes\Views\MR_Binding.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Views\Paint\Recipes_Paint.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Views\Paint\Stations\Recipe_Paint_HZ.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Views\Paint\Stations\Recipe_Paint_WZ.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Views\Paint\Stations\Recipe_Paint_PZ.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Views\Paint\Stations\Recipe_Paint_Baskets.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Views\Paint\Stations\Recipe_Paint_DT.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\Dashboard\DBTemperature.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Material\Baskets\CDBasket.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Material\Trays\CZTray.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Material\Trays\HZTray_L.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Material\Trays\MVTrayT.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Material\Trays\MVTray.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Material\Trays\HZTray_R.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Material\Trays\PZWZTray.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Material\Baskets\PZWZBasket.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Material\Baskets\STBasket.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Material\Baskets\LDBasket.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Material\Baskets\MVBasket.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Material\MVMaterial.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Paint\PaintType.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Station\MV_BSMP.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Station\MV_CD.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Station\MV_CI_M2.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Station\MV_CZ.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Station\MV_US.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Station\MV_PO.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Station\MV_TM.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Station\MV_MCPZWZ.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Station\MV_CI_M1.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Station\MV_HZ.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Station\MV_ST.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Station\MV_LD.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Tracking_L.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\OperatingMode\M_WorkMode_L.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\OperatingMode\M_WorkMode_R.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\OperatingMode\WorkModeOption.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\Recipe\Article\ArticleRecipe.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\Recipe\Article\ArticleGeneral.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\Recipe\Coating\CoatingStep4.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\Recipe\Coating\CoatingStep3.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\Recipe\Coating\CoatingStep2.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\Recipe\Coating\CoatingStep1.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\Recipe\MR\MR_Add.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\Recipe\MR\MR_Article.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\Recipe\MR\MR_Layer.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Tracking_R.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\Recipe\Paint\PaintGeneral.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\Recipe\Paint\PaintRecipe.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\SplashWindow\SplashWindow.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\AppBar\Views\AppBar.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\Views\EmptyView.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Header\Views\Header.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Dashboard.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Dashboard\Views\WidgetSelector.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\General\DB_Widget_Calendar.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\General\DB_Widget_Clock.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\General\DB_Widget_FP_Logo.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Statistic\DB_Widget_TYC.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Statistic\DB_Widget_PSW.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Temperature\DB_Widget_CZT1 .g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Temperature\DB_Widget_DT.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Temperature\DB_Widget_WZT.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Temperature\DB_Widget_PZT.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\WidgetEmptyView.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Alarms\Views\Alarms_Filter.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Alarms\Views\Alarms_Current.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Alarms\Views\Alarms_Archive.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Alarms\Views\Alarms_PN.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Logging\Views\Logging.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\MachineOverview\DataPicker\MO_DataPicker.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\MachineOverview\Views\MO_MainView.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Maintenance\Views\Maintenance_PN.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Maintenance\Views\Maintenance_OH.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Maintenance\Views\Maintenance_Current.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Protocol\Views\Protocol_Charges.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Protocol\Views\Protocol_Layers.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Protocol\Views\Protocol_Orders.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Protocol\Views\Protocol_PN.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Recipes_PN.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\Recipes\Views\Recipe_Selector.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Views\Article\Recipes_Article.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Views\Coating\Recipes_Coating.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Views\MR\Recipes_MR.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\UM\Views\UM_Groups.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\UM\Views\UM_AddChangeGroup.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\UM\Views\UM_Users.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\UM\Views\UM_PN.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\UM\Views\UM_LogOnOff.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\UM\Views\UM_AddChangeUser.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\UM\Views\UM_ChangePassword.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\MessageBox\Views\MessageBoxView.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Touchpad\TouchPads\Views\AlphaTouchpadView.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Touchpad\TouchPads\Views\DateTimeTouchpadView.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Touchpad\TouchPads\Views\NumericTouchpadView.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Touchpad\TouchPads\Views\PasswordTouchpadView.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Windows\MainWindow.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\App.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\251252-Raymond-1_Content.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\251252-Raymond-1_MarkupCompile.cache
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\251252-Raymond-1_MarkupCompile.lref
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Dialog\PD\Views\Camera.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Temperature\DB_Widget_CZT4.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Temperature\DB_Widget_CZT3.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Temperature\DB_Widget_CZT2.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Temperature\DB_Widget_HZ2.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Temperature\DB_Widget_HZ1.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\MachineOverview\Views\MO_MainView_M2.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\MachineOverview\Views\MO_MainView_M1.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\MachineOverview\Views\Stations\Forplanet\MO_CD.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\MachineOverview\Views\Stations\MO_CZ.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\MachineOverview\Views\Stations\MO_PZWZ.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\MachineOverview\Views\Stations\MO_HZ.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\MachineOverview\Views\Stations\MO_ST.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\MachineOverview\Views\Stations\MO_LD.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\Converters\Converters.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Material\Trays\CZTray.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Material\Trays\HZTray_L.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Material\Trays\MVTrayT.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Material\Trays\MVTray.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Material\Trays\HZTray_R.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Material\Trays\PZWZTray.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Station\MV_BSMP.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Station\MV_CI_M2.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Station\MV_US.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Station\MV_PO.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Station\MV_TM.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Station\MV_MCPZWZ.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Station\MV_CI_M1.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Resources\User Controls\MO\Station\MV_LD.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Temperature\DB_Widget_CZT1 .baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Temperature\DB_Widget_DT.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Temperature\DB_Widget_WZT.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Dashboard\Views\Widgets\Temperature\DB_Widget_PZT.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\MachineOverview\Views\MO_MainView.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\Main\Regions\Main\Recipes\Views\MR\Recipes_MR.baml
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\251252-Raymond-1.g.resources
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\HMI.Properties.Resources.resources
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\251252-Raymond-1.csproj.GenerateResource.cache
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\RdlCompile.cache
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\RdlCompile.compiled
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\251252-Raymond-1.csproj.CoreCompileInputs.cache
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\251252-Raymond-1.csproj.CopyComplete
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\251252-Raymond-1.exe
+C:\GitHub\251252-Raymond\251252-Raymond-1\obj\x64\Debug\251252-Raymond-1.pdb

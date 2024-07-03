@@ -1,0 +1,442 @@
+System information:
+Version                                  | VisiWin7 7.2
+Framework                                | DotNet
+Project                                  | Single
+VisiWin.S7_TIA.Brw.dll           | 3.0.1.56(Debug=False)
+VisiWin.Browser.Components.Shared.dll | 7.0.0.41(Debug=False)
+
+Messages
+06/06/2024 10:43:30   | Message | Attention: Some items in the PLC project contain special characters. | TIAParser.FormatName() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__HZ 1 Circulation PN.sGETIO_PARTINPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__HZ 1 Circulation PN.sSETIO_PARTOUTPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB HZ 1 Door 0 Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 0 Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 0 Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 0 Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 0 Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB HZ 1 Door 4 Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 4 Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 4 Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 4 Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 4 Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB HZ 1 Door 7 Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 7 Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 7 Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 7 Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 7 Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB HZ 1 Door 9 Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 9 Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 9 Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 9 Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 9 Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB HZ 1 Heating Main.Restarter 1"IO: Delayed"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB HZ 1 Heating Main.Restarter 1.sDelayed off"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB HZ 1 Heating Main.Restarter 1.sDelayed on"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB HZ 1 Heating Main.Restarter 2"IO: Delayed"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB HZ 1 Heating Main.Restarter 2.sDelayed off"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB HZ 1 Heating Main.Restarter 2.sDelayed on"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB HZ 1 Exhaust Main.sRestarter"IO: Delayed"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB HZ 1 Exhaust Main.sRestarter.sDelayed off"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB HZ 1 Exhaust Main.sRestarter.sDelayed on"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB HZ 1 Circulation Main.Restarter"IO: Delayed"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB HZ 1 Circulation Main.Restarter.sDelayed off"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB HZ 1 Circulation Main.Restarter.sDelayed on"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB HZ 1 Door 3 Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 3 Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 3 Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 3 Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 3 Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB HZ 1 Door 5 Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 5 Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 5 Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 5 Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 5 Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB HZ 1 Door 6 Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 6 Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 6 Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 6 Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 6 Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB HZ 1 Door 8 Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 8 Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 8 Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 8 Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 8 Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB HZ 1 Heating Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Heating Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Heating Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Heating Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Heating Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB HZ 1 Exhaust Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Exhaust Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Exhaust Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Exhaust Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Exhaust Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB HZ 1 Door 1 Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 1 Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 1 Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 1 Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 1 Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB HZ 1 Door 2 Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 2 Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 2 Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 2 Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Door 2 Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB HZ 1 Exhaust WB Main.sRestarter"IO: Delayed"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB HZ 1 Exhaust WB Main.sRestarter.sDelayed off"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB HZ 1 Exhaust WB Main.sRestarter.sDelayed on"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB HZ 1 Circulation Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Circulation Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Circulation Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Circulation Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Circulation Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB HZ 1 Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB HZ 1 Exhaust WB Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Exhaust WB Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Exhaust WB Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Exhaust WB Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ 1 Exhaust WB Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB HZ Orders.HMS Countdown"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB HZ 1 Main.Alarm manager"IO: Alarm"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB HZ Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB HZ Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB US Orders.HMS Countdown"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "PLC.Blocks.04 Tray handling.09 US.02.02 Scale.IDB._IDB US 2 DGT4X PN.IO: State" is not supported! | TIAParser.CreateItemInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "PLC.Blocks.04 Tray handling.09 US.02.01 Belt.IDB._IDB US 2 Belt PN.IO: MOP Setup" is not supported! | TIAParser.CreateItemInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__IDB US 2 Belt PN.sGETIO_PARTINPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__IDB US 2 Belt PN.sSETIO_PARTOUTPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB US 2 Belt Main.Order change"I: Move"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB US 2 Belt Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB US 2 Belt Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB US 2 Belt Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB US 2 Belt Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB US 2 Belt Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB US 2 Scale Alarm_.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB US 2 Scale Alarm_.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB US 2 Scale Alarm_.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB US 2 Scale Alarm_.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB US 2 Scale Alarm_.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "PLC.Blocks.04 Tray handling.09 US.01.02 Scale.IDB._IDB US 1 DGT4X PN.IO: State" is not supported! | TIAParser.CreateItemInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "PLC.Blocks.04 Tray handling.09 US.01.01 Belt.IDB._IDB US 1 Belt PN.IO: MOP Setup" is not supported! | TIAParser.CreateItemInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__IDB US 1 Belt PN.sGETIO_PARTINPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__IDB US 1 Belt PN.sSETIO_PARTOUTPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB US 1 Belt Main.Order change"I: Move"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB US  Belt Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB US  Belt Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB US  Belt Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB US  Belt Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB US  Belt Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB US 1 Scale Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB US 1 Scale Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB US 1 Scale Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB US 1 Scale Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB US 1 Scale Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__IDB CZ 3 Circulation PN.sGETIO_PARTINPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__IDB CZ 3 Circulation PN.sSETIO_PARTOUTPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ 3 Cooling Main.Restarter"IO: Delayed"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB CZ 3 Cooling Main.Restarter.sDelayed off"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB CZ 3 Cooling Main.Restarter.sDelayed on"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ 3 Cooling Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 3 Cooling Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 3 Cooling Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 3 Cooling Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 3 Cooling Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ 3 Circulation Main.Restarter"IO: Delayed"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB CZ 3 Circulation Main.Restarter.sDelayed off"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB CZ 3 Circulation Main.Restarter.sDelayed on"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ 3 Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 3 Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 3 Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 3 Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 3 Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ 3 Circulation Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 3 Circulation Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 3 Circulation Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 3 Circulation Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 3 Circulation Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__IDB CZ 2 Circulation PN.sGETIO_PARTINPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__IDB CZ 2 Circulation PN.sSETIO_PARTOUTPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ 2 Cooling Main.Restarter"IO: Delayed"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB CZ 2 Cooling Main.Restarter.sDelayed off"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB CZ 2 Cooling Main.Restarter.sDelayed on"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ 2 Cooling Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 2 Cooling Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 2 Cooling Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 2 Cooling Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 2 Cooling Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ 2 Circulation Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 2 Circulation Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 2 Circulation Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 2 Circulation Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 2 Circulation Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ 2 Circulation Main.Restarter"IO: Delayed"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB CZ 2 Circulation Main.Restarter.sDelayed off"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB CZ 2 Circulation Main.Restarter.sDelayed on"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ 2 Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 2 Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 2 Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 2 Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 2 Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ 4 Main.Alarm manager"IO: Alarm"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ 3 Main.Alarm manager"IO: Alarm"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ 2 Main.Alarm manager"IO: Alarm"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ 1 Main.Alarm manager"IO: Alarm"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ Orders.HMS Countdown"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__IDB CZ 1 Circulation PN.sGETIO_PARTINPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__IDB CZ 1 Circulation PN.sSETIO_PARTOUTPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ 1 Cooling Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 1 Cooling Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 1 Cooling Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 1 Cooling Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 1 Cooling Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ 1 Circulation Main.Restarter"IO: Delayed"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB CZ 1 Circulation Main.Restarter.sDelayed off"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB CZ 1 Circulation Main.Restarter.sDelayed on"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ 1 Circulation Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 1 Circulation Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 1 Circulation Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 1 Circulation Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 1 Circulation Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ 1 Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 1 Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 1 Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 1 Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 1 Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ 1 Cooling Main.Restarter"IO: Delayed"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB CZ 1 Cooling Main.Restarter.sDelayed off"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB CZ 1 Cooling Main.Restarter.sDelayed on"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__IDB CZ 4 Circulation PN.sGETIO_PARTINPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__IDB CZ 4 Circulation PN.sSETIO_PARTOUTPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ 4 Cooling Main.Restarter"IO: Delayed"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB CZ 4 Cooling Main.Restarter.sDelayed off"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB CZ 4 Cooling Main.Restarter.sDelayed on"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ 4 Circulation Main.Restarter"IO: Delayed"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB CZ 4 Circulation Main.Restarter.sDelayed off"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB CZ 4 Circulation Main.Restarter.sDelayed on"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ 4 Circulation Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 4 Circulation Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 4 Circulation Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 4 Circulation Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 4 Circulation Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ 4 Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 4 Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 4 Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 4 Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 4 Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ 4 Cooling Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 4 Cooling Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 4 Cooling Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 4 Cooling Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB CZ 4 Cooling Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "PLC.Blocks.04 Tray handling.04 TM.04 Chain.IDB._IDB TM Chain PN.IO: MOP Setup" is not supported! | TIAParser.CreateItemInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__IDB TM Chain PN.sGETIO_PARTINPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__IDB TM Chain PN.sSETIO_PARTOUTPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "PLC.Blocks.04 Tray handling.04 TM.03 Arm.IDB._IDB TM Arm PN.IO: MOP Setup" is not supported! | TIAParser.CreateItemInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__IDB TM Arm PN.sGETIO_PARTINPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__IDB TM Arm PN.sSETIO_PARTOUTPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "PLC.Blocks.04 Tray handling.04 TM.02 Lift.IDB._IDB TM Lift PN.IO: MOP Setup" is not supported! | TIAParser.CreateItemInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__IDB TM Lift PN.sGETIO_PARTINPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__IDB TM Lift PN.sSETIO_PARTOUTPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "PLC.Blocks.04 Tray handling.04 TM.01 Traction.IDB._IDB TM Traction PN.IO: MOP Setup" is not supported! | TIAParser.CreateItemInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__IDB TM Traction PN.sGETIO_PARTINPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__IDB TM Traction PN.sSETIO_PARTOUTPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB TM Chain Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TM Chain Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TM Chain Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TM Chain Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TM Chain Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB TM Arm Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TM Arm Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TM Arm Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TM Arm Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TM Arm Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB TM Lift Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TM Lift Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TM Lift Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TM Lift Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TM Lift Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB TM Traction Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TM Traction Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TM Traction Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TM Traction Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TM Traction Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB TM Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TM Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TM Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TM Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TM Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__IDB WZ Circulation PN.sGETIO_PARTINPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__IDB WZ Circulation PN.sSETIO_PARTOUTPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB WZ Exhaust Main.sRestarter"IO: Delayed"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB WZ Exhaust Main.sRestarter.sDelayed off"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB WZ Exhaust Main.sRestarter.sDelayed on"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB WZ Circulation Main.Restarter"IO: Delayed"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB WZ Circulation Main.Restarter.sDelayed off"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB WZ Circulation Main.Restarter.sDelayed on"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB WZ Heating Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB WZ Heating Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB WZ Heating Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB WZ Heating Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB WZ Heating Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB WZ Circulation Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB WZ Circulation Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB WZ Circulation Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB WZ Circulation Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB WZ Circulation Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB WZ Exhaust WB Main.sRestarter"IO: Delayed"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB WZ Exhaust WB Main.sRestarter.sDelayed off"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB WZ Exhaust WB Main.sRestarter.sDelayed on"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB WZ Orders.HMS Countdown"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "PLC.Blocks.04 Tray handling.03 TO.01 Chain.IDB._IDB TO Chain PN.IO: MOP Setup" is not supported! | TIAParser.CreateItemInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__IDB TO Chain PN.sGETIO_PARTINPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__IDB TO Chain PN.sSETIO_PARTOUTPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB TO Guide Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TO Guide Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TO Guide Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TO Guide Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TO Guide Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TO Chain Main.Order change"I: Move"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB TO Chain Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TO Chain Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TO Chain Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TO Chain Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB TO Chain Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "PLC.Blocks.04 Tray handling.01 MC.01 Belt.IDB._IDB MC Belt PN.IO: MOP Setup" is not supported! | TIAParser.CreateItemInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__IDB MC Belt PN.sGETIO_PARTINPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC__IDB MC Belt PN.sSETIO_PARTOUTPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB MC Brush Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB MC Brush Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB MC Brush Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB MC Brush Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB MC Brush Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB MC Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB MC Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB MC Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB MC Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB MC Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB MC Belt Main.Order change"I: Move"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB MC Belt Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB MC Belt Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB MC Belt Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB MC Belt Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Variant" of item "RFC_IDB MC Belt Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB MC Orders.PC Data handler"IO: Errors"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:30   | Message | Datatype "S7_Pointer" of item "RFC_IDB MC Orders.HMS Countdown"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "PLC.Blocks.04 Tray handling.08 PO.03 Tilt.IDB._IDB PO Tilt PN.IO: MOP Setup" is not supported! | TIAParser.CreateItemInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC__IDB PO Tilt PN.sGETIO_PARTINPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC__IDB PO Tilt PN.sSETIO_PARTOUTPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "PLC.Blocks.04 Tray handling.08 PO.02 Traction.IDB._IDB PO Traction PN.IO: MOP Setup" is not supported! | TIAParser.CreateItemInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC__IDB PO Traction PN.sGETIO_PARTINPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC__IDB PO Traction PN.sSETIO_PARTOUTPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_IDB PO Slider Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB PO Slider Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB PO Slider Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB PO Slider Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB PO Slider Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_IDB PO Gripper Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB PO Gripper Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB PO Gripper Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB PO Gripper Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB PO Gripper Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_IDB PO Turn Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB PO Turn Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB PO Turn Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB PO Turn Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB PO Turn Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_IDB PO Traction Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB PO Traction Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB PO Traction Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB PO Traction Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB PO Traction Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_IDB PO Orders.PC Data handler"IO: Errors"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_IDB HZ Main.Alarm manager"IO: Alarm"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_IDB PO Main.Alarm manager"IO: Alarm"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_IDB CZ Main.Alarm manager"IO: Alarm"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_IDB TM Main.Alarm manager"IO: Alarm"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_IDB MC Main.Alarm manager"IO: Alarm"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC__PZ Circulation PN.sGETIO_PARTINPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC__PZ Circulation PN.sSETIO_PARTOUTPUTS" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_IDB PZ Exhaust Main.sRestarter"IO: Delayed"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB PZ Exhaust Main.sRestarter.sDelayed off"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB PZ Exhaust Main.sRestarter.sDelayed on"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_IDB PZ Circulation Main.Restarter"IO: Delayed"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB PZ Circulation Main.Restarter.sDelayed off"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB PZ Circulation Main.Restarter.sDelayed on"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_IDB PZ Heating Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB PZ Heating Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB PZ Heating Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB PZ Heating Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB PZ Heating Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_IDB PZ Circulation Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB PZ Circulation Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB PZ Circulation Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB PZ Circulation Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB PZ Circulation Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_IDB PZ Exhaust WB Main.sRestarter"IO: Delayed"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB PZ Exhaust WB Main.sRestarter.sDelayed off"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB PZ Exhaust WB Main.sRestarter.sDelayed on"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_IDB PZ Orders.HMS Countdown"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_IDB Machine Main.Main alarm manager"IO: Alarm"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_IDB Machine Main.CV manager"IO: On"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_IDB Machine Main.CV manager"IO: Delayed"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB Machine Main.CV manager.sStart"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB Machine Main.CV manager.sDelayed"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_IDB IF RTO Main.sRestarter"IO: Delayed"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB IF RTO Main.sRestarter.sDelayed off"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_RFC_IDB IF RTO Main.sRestarter.sDelayed on"IO: Time"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_WString" of item "RFC_RFC_DB MOP.User.fromName" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_IDB Machine State.Count"IO: HMS"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Remote" of item "RFC_IDB Material Tracking.GETADDR_1" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Remote" of item "RFC_IDB Material Tracking.GETADDR_2" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Remote" of item "RFC_IDB Material Tracking.GETADDR_3" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Remote" of item "RFC_IDB Material Tracking.GETADDR_4" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB Material Tracking.GETRD_1" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB Material Tracking.GETRD_2" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB Material Tracking.GETRD_3" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB Material Tracking.GETRD_4" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Pointer" of item "RFC_IDB Machine Alarm.Alarm manager"IO: General"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB Machine Alarm.Alarm manager"IO: Error"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB Machine Alarm.Alarm manager"IO: Warning"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB Machine Alarm.Alarm manager"IO: Message"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Datatype "S7_Variant" of item "RFC_IDB Machine Alarm.Alarm manager"IO: Predictive"" is not supported! | TIAParser.CreateMemberInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.06 HZ.01.00 Main.IDB.IDB HZ 1 State.Impulse.I: Signal not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.06 HZ.01.00 Main.IDB.IDB HZ 1 State.Impulse.O: Impulses not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.06 HZ.01.00 Main.IDB.IDB HZ 1 State.Impulse.O: Impulses.Positive not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.06 HZ.01.00 Main.IDB.IDB HZ 1 State.Impulse.O: Impulses.Negative not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.06 HZ.01.00 Main.IDB.IDB HZ 1 State.Impulse.Pos Flag not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.06 HZ.01.00 Main.IDB.IDB HZ 1 State.Impulse.Neg Flag not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.07 CZ.03.00 Main.IDB.IDB CZ 3 State.Impulse.I: Signal not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.07 CZ.03.00 Main.IDB.IDB CZ 3 State.Impulse.O: Impulses not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.07 CZ.03.00 Main.IDB.IDB CZ 3 State.Impulse.O: Impulses.Positive not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.07 CZ.03.00 Main.IDB.IDB CZ 3 State.Impulse.O: Impulses.Negative not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.07 CZ.03.00 Main.IDB.IDB CZ 3 State.Impulse.Pos Flag not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.07 CZ.03.00 Main.IDB.IDB CZ 3 State.Impulse.Neg Flag not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.07 CZ.02.00 Main.IDB.IDB CZ 2 State.Impulse.I: Signal not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.07 CZ.02.00 Main.IDB.IDB CZ 2 State.Impulse.O: Impulses not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.07 CZ.02.00 Main.IDB.IDB CZ 2 State.Impulse.O: Impulses.Positive not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.07 CZ.02.00 Main.IDB.IDB CZ 2 State.Impulse.O: Impulses.Negative not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.07 CZ.02.00 Main.IDB.IDB CZ 2 State.Impulse.Pos Flag not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.07 CZ.02.00 Main.IDB.IDB CZ 2 State.Impulse.Neg Flag not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.07 CZ.01.00 Main.IDB.IDB CZ 1 State.Impulse.I: Signal not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.07 CZ.01.00 Main.IDB.IDB CZ 1 State.Impulse.O: Impulses not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.07 CZ.01.00 Main.IDB.IDB CZ 1 State.Impulse.O: Impulses.Positive not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.07 CZ.01.00 Main.IDB.IDB CZ 1 State.Impulse.O: Impulses.Negative not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.07 CZ.01.00 Main.IDB.IDB CZ 1 State.Impulse.Pos Flag not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.07 CZ.01.00 Main.IDB.IDB CZ 1 State.Impulse.Neg Flag not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.07 CZ.04.00 Main.IDB.IDB CZ 4 State.Impulse.I: Signal not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.07 CZ.04.00 Main.IDB.IDB CZ 4 State.Impulse.O: Impulses not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.07 CZ.04.00 Main.IDB.IDB CZ 4 State.Impulse.O: Impulses.Positive not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.07 CZ.04.00 Main.IDB.IDB CZ 4 State.Impulse.O: Impulses.Negative not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.07 CZ.04.00 Main.IDB.IDB CZ 4 State.Impulse.Pos Flag not found in ItemIds | MemberToItemInfo() | 
+06/06/2024 10:43:31   | Message | Alias PLC.Blocks.04 Tray handling.07 CZ.04.00 Main.IDB.IDB CZ 4 State.Impulse.Neg Flag not found in ItemIds | MemberToItemInfo() | 

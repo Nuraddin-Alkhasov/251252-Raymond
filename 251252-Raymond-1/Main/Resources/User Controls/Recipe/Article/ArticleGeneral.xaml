@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="HMI.Resources.UserControls.ArticleGeneral"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:vw="http://inosoft.com/visiwin7"
+    Width="1832" Height="Auto" Loaded="UserControl_Loaded" VerticalAlignment="Top" HorizontalAlignment="Center" Opacity="0">
+
+    <vw:GroupBox Style="{DynamicResource GB_Group}" MinHeight="60"  LocalizableHeaderText="@RecipeSystem.Text12">
+        <Grid Margin="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="135"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="400"/>
+                <ColumnDefinition Width="300"/>
+                <ColumnDefinition Width="275"/>
+                <ColumnDefinition Width="275"/>
+            </Grid.ColumnDefinitions>
+            <Border Width="120" Height="120" Margin="10,10,5,10" BorderBrush="{DynamicResource FP_BorderBrush}" BorderThickness="2" CornerRadius="4" Background="White">
+                <vw:PictureBox SymbolResourceKey="{Binding SelectedIndex, ElementName=Art}" Margin="2"   VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Border>
+            <vw:ComboBox x:Name="Art" Height="60" Grid.Column="1" Margin="5,10" StateList="{DynamicResource P_ArticleArts}" FontSize="20" Padding="0,0,50,0" LocalizableLabelText="@RecipeSystem.Text24" Style="{DynamicResource CB_Main}" AuthorizationRight="RecipeAP" VariableName="Recipe.Article_Art"/>
+            <vw:ComboBox Height="60" Grid.Column="2" Margin="5,10" StateList="{DynamicResource P_ArticleTypes}" FontSize="20" Padding="0,0,50,0" LocalizableLabelText="@RecipeSystem.Text26" Style="{DynamicResource CB_Main}" AuthorizationRight="RecipeAP" VariableName="Recipe.Article_Type"/>
+            <vw:ComboBox Height="60" Grid.Column="3" Margin="5,10,10,10" StateList="{DynamicResource P_ArticleSizes}" FontSize="20" Padding="0,0,50,0" LocalizableLabelText="@RecipeSystem.Text25" Style="{DynamicResource CB_Main}" AuthorizationRight="RecipeAP" VariableName="Recipe.Article_Size"/>
+            <vw:ToggleButton Grid.Column="4"  Width="200" Height="80" FontSize="18" Style="{DynamicResource TB_Main}" LocalizableText="@RecipeSystem.Text83"  VariableName="CPU1.PLC.Blocks.01 Basket feeding.01 LD.00 Main.DB LD PD.Charge.Functions.Sliders" AuthorizationRight="RecipeAP" HorizontalAlignment="Right" Margin="0,0,25,0"/>
+            <vw:ToggleButton Grid.Column="5"  Width="200" Height="80" FontSize="18" Style="{DynamicResource TB_Main}" LocalizableText="@RecipeSystem.Text84"  VariableName="CPU1.PLC.Blocks.01 Basket feeding.01 LD.00 Main.DB LD PD.Charge.Functions.Check" AuthorizationRight="RecipeAP" HorizontalAlignment="Left" Margin="25,0,0,0"/>
+
+        </Grid>
+    </vw:GroupBox>
+
+</UserControl>

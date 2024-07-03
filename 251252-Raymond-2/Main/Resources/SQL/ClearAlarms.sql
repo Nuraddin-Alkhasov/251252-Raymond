@@ -1,0 +1,1 @@
+DELETE [VisiWin#250548-MCS#Alarms].[dbo].[Alarms#Archive] WHERE [TimeIn] < dateadd(YEAR, -3, cast(getdate() as date))

@@ -1,0 +1,26 @@
+﻿<UserControl x:Class="HMI.Resources.UserControls.MO.M2_MV_LD"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vw="http://inosoft.com/visiwin7"
+        xmlns:UC="clr-namespace:HMI.Resources.UserControls.MO" Opacity="0" Loaded="UserControl_Loaded">
+    <Grid x:Name="A" >
+
+        <vw:PictureBox SymbolResourceKey="MV_LDHCDC" Width="352" Height="364" Margin="3" HorizontalAlignment="Left" VerticalAlignment="Top" >
+            <vw:PictureBox.Effect>
+                <DropShadowEffect Color="Black" BlurRadius="3"  Direction="270"  Opacity="0.5"/>
+            </vw:PictureBox.Effect>
+        </vw:PictureBox>
+        <UC:MVMaterial Margin="135,190,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="155" Height="65" 
+                       IsMaterial="CPU3.PLC.Blocks.01 Basket feeding.02 HC.00 Main.DB HC PD.Charge.Available"
+                       ValueWeight="CPU3.PLC.Blocks.01 Basket feeding.02 HC.02 Scale.DB HC Scale HMI.Actual.Weight"/>
+
+        <UC:MVMaterial Margin="305,178,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="30" Height="110"
+                      IsMaterial="CPU3.PLC.Blocks.01 Basket feeding.03 DC.00 Main.DB DC PD.Charge.Available" />
+        <UC:MVMaterial HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="12,23,0,0" Height="110" Width="101"
+                       IsMaterial="CPU3.PLC.Blocks.01 Basket feeding.01 LD.00 Main.DB LD PD.Charge.Available"/>
+        <vw:Button Click="Button_Click_1"  Style="{DynamicResource B_Station}" Margin="-5" />
+        <vw:Button Click="Button_Click_2" Style="{DynamicResource B_Function}"  Width="125" HorizontalAlignment="Left" Margin="0,-5,170,-5" />
+
+    </Grid>
+
+</UserControl>
